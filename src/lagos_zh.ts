@@ -9,19 +9,19 @@
     </message>
     <message>
         <source>Version:</source>
-        <translation>软件版本:</translation>
+        <translation type="unfinished">软件版本：</translation>
     </message>
     <message>
         <source>Qt Version:</source>
-        <translation>Qt 版本:</translation>
+        <translation type="unfinished">Qt 版本：</translation>
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
-        <translation>如需技术支持，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
+        <translation type="unfinished">如需技术支持，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt;（英语）</translation>
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
-        <translation>如需技术支持，请访问 &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
+        <translation type="unfinished">如需技术支持，请访问 &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt;（英语）</translation>
     </message>
     <message>
         <source>PLACEHOLDER</source>
@@ -53,19 +53,19 @@
     </message>
     <message>
         <source>Verify Password:</source>
-        <translation>确认密码:</translation>
+        <translation type="unfinished">确认密码：</translation>
     </message>
     <message>
         <source>Email Address:</source>
-        <translation>电子邮箱地址:</translation>
+        <translation type="unfinished">电子邮箱地址：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>用户名:</translation>
+        <translation type="unfinished">用户名：</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation>TeamSpeak 账号功能:</translation>
+        <translation type="unfinished">TeamSpeak 账号功能：</translation>
     </message>
     <message>
         <source>Synchronization</source>
@@ -100,11 +100,11 @@
     </message>
     <message>
         <source>Email Address:</source>
-        <translation>电子邮箱地址:</translation>
+        <translation type="unfinished">电子邮箱地址：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation>TeamSpeak 账号功能:</translation>
+        <translation type="unfinished">TeamSpeak 账号功能：</translation>
     </message>
     <message>
         <source>Synchronization</source>
@@ -174,11 +174,11 @@
     </message>
     <message>
         <source>Email:</source>
-        <translation>电子邮箱地址:</translation>
+        <translation type="unfinished">电子邮箱地址：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
@@ -194,11 +194,11 @@
     </message>
     <message>
         <source>Account Actions:</source>
-        <translation>账号操作:</translation>
+        <translation type="unfinished">账号操作：</translation>
     </message>
     <message>
         <source>myTeamSpeak Account Features:</source>
-        <translation>myTeamSpeak 账号功能:</translation>
+        <translation type="unfinished">myTeamSpeak 账号功能：</translation>
     </message>
     <message>
         <source>Manual (Define which items get synchronized)</source>
@@ -376,7 +376,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation>预设名称:</translation>
+        <translation type="unfinished">预设名称：</translation>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
@@ -410,15 +410,15 @@ To remove a badge drag it from the slot to the list below.</source>
     <name>BanAddDialog</name>
     <message>
         <source>&amp;IP:</source>
-        <translation>&amp;IP地址:</translation>
+        <translation type="unfinished">&amp;IP地址：</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称(&amp;N):</translation>
+        <translation type="unfinished">名称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
-        <translation>IP/名称 解释器(&amp;I):</translation>
+        <translation type="unfinished">IP/名称 解释器(&amp;I)：</translation>
     </message>
     <message>
         <source>Wildcard ipv4</source>
@@ -438,15 +438,15 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation>&amp;UID:</translation>
+        <translation type="unfinished">&amp;UID：</translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation>理由:</translation>
+        <translation type="unfinished">理由：</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation>预设信息:</translation>
+        <translation type="unfinished">预设信息：</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -454,7 +454,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation>持续时间(&amp;D):</translation>
+        <translation type="unfinished">持续时间(&amp;D)：</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -490,7 +490,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation>预设名称:</translation>
+        <translation type="unfinished">预设名称：</translation>
     </message>
     <message>
         <source>Save duration</source>
@@ -517,15 +517,15 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>名字:</translation>
+        <translation type="unfinished">名字：</translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation>理由:</translation>
+        <translation type="unfinished">理由：</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation>预设信息:</translation>
+        <translation type="unfinished">预设信息：</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -533,7 +533,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation>持续时间(&amp;D):</translation>
+        <translation type="unfinished">持续时间(&amp;D)：</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -735,21 +735,21 @@ Inserting a modified copy instead.</source>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
-        <translation>服务器别名或地址(&amp;A):</translation>
+        <translation type="unfinished">服务器别名或地址(&amp;A)：</translation>
     </message>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
         <translation type="unfinished">TeamSpeak 3 服务器的别名、主机名或IP地址，
-示例: voice.teamspeak.com:9987</translation>
+示例：voice.teamspeak.com:9987</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation>音效包:</translation>
+        <translation type="unfinished">音效包：</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation>身份(&amp;I):</translation>
+        <translation type="unfinished">身份(&amp;I)：</translation>
     </message>
     <message>
         <source>Identity to use when connecting to the server</source>
@@ -757,11 +757,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation>快捷键配置:</translation>
+        <translation type="unfinished">快捷键配置：</translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation>服务器密码(&amp;P):</translation>
+        <translation type="unfinished">服务器密码(&amp;P)：</translation>
     </message>
     <message>
         <source>Server password (optional)</source>
@@ -777,11 +777,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Default Channel:</source>
-        <translation>默认频道(&amp;D):</translation>
+        <translation type="unfinished">默认频道(&amp;D)：</translation>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation>输出配置(&amp;P):</translation>
+        <translation type="unfinished">输出配置(&amp;P)：</translation>
     </message>
     <message>
         <source>Playback profile used for this server</source>
@@ -789,7 +789,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Default Channel &amp;Password:</source>
-        <translation>默认频道密码(&amp;P):</translation>
+        <translation type="unfinished">默认频道密码(&amp;P)：</translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
@@ -797,7 +797,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation>昵称(&amp;N):</translation>
+        <translation type="unfinished">昵称(&amp;N)：</translation>
     </message>
     <message>
         <source>Your requested nickname</source>
@@ -805,7 +805,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Bookmark Name:</source>
-        <translation>书签名:</translation>
+        <translation type="unfinished">书签名：</translation>
     </message>
     <message>
         <source>Custom description for this server</source>
@@ -813,7 +813,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation>昵称发音(&amp;P):</translation>
+        <translation type="unfinished">昵称发音(&amp;P)：</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
@@ -821,7 +821,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation>音频输入配置(&amp;C):</translation>
+        <translation type="unfinished">音频输入配置(&amp;C)：</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
@@ -932,11 +932,11 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation>当前密码(&amp;P):</translation>
+        <translation type="unfinished">当前密码(&amp;P)：</translation>
     </message>
     <message>
         <source>New &amp;Email:</source>
-        <translation>新邮箱(&amp;E):</translation>
+        <translation type="unfinished">新邮箱(&amp;E)：</translation>
     </message>
 </context>
 <context>
@@ -947,15 +947,15 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;New Password:</source>
-        <translation>新密码(&amp;N):</translation>
+        <translation type="unfinished">新密码(&amp;N)：</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation>当前密码(&amp;P):</translation>
+        <translation type="unfinished">当前密码(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Verify New Password:</source>
-        <translation>确认新密码(&amp;P):</translation>
+        <translation type="unfinished">确认新密码(&amp;P)：</translation>
     </message>
 </context>
 <context>
@@ -966,7 +966,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>New &amp;Username:</source>
-        <translation>新用户名(&amp;U):</translation>
+        <translation type="unfinished">新用户名(&amp;U)：</translation>
     </message>
 </context>
 <context>
@@ -992,15 +992,15 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Current password:</source>
-        <translation>当前密码:</translation>
+        <translation type="unfinished">当前密码：</translation>
     </message>
     <message>
         <source>Enter new password:</source>
-        <translation>输入新密码:</translation>
+        <translation type="unfinished">输入新密码：</translation>
     </message>
     <message>
         <source>Re-enter password:</source>
-        <translation>重新输入主密码:</translation>
+        <translation type="unfinished">重新输入主密码：</translation>
     </message>
     <message>
         <source>Remove Master Password</source>
@@ -1107,7 +1107,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Channel Group: %1</source>
-        <translation>频道组: %1</translation>
+        <translation type="unfinished">频道组：%1</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1273,7 +1273,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Choose your nickname:</source>
-        <translation>选择您的昵称:</translation>
+        <translation type="unfinished">选择您的昵称：</translation>
     </message>
 </context>
 <context>
@@ -1425,7 +1425,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation>搜索(&amp;S):</translation>
+        <translation type="unfinished">搜索(&amp;S)：</translation>
     </message>
     <message>
         <source>Search text in log.
@@ -1435,7 +1435,7 @@ Press Enter to search next location.</source>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation>过滤器(&amp;F):</translation>
+        <translation type="unfinished">过滤器(&amp;F)：</translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
@@ -1503,7 +1503,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Client banned: %1</source>
-        <translation>被禁止用户: %1</translation>
+        <translation type="unfinished">被禁止用户：%1</translation>
     </message>
     <message numerus="yes">
         <source>has %n complaint(s)</source>
@@ -1581,7 +1581,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Downloaded this month:</source>
-        <translation>本月下载量:</translation>
+        <translation type="unfinished">本月下载量：</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1589,7 +1589,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Available download quota:</source>
-        <translation>可用下载量:</translation>
+        <translation type="unfinished">可用下载量：</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -1597,19 +1597,19 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Uploaded this month:</source>
-        <translation>本月上传量:</translation>
+        <translation type="unfinished">本月上传量：</translation>
     </message>
     <message>
         <source>Available upload quota:</source>
-        <translation>可用上传量:</translation>
+        <translation type="unfinished">可用上传量：</translation>
     </message>
     <message>
         <source>Remaining download this month:</source>
-        <translation>本月剩余下载量:</translation>
+        <translation type="unfinished">本月剩余下载量：</translation>
     </message>
     <message>
         <source>Remaining upload this month:</source>
-        <translation>本月剩余上传量:</translation>
+        <translation type="unfinished">本月剩余上传量：</translation>
     </message>
     <message>
         <source>Retrieving</source>
@@ -1704,11 +1704,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称(&amp;N):</translation>
+        <translation type="unfinished">名称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation>图标(&amp;I):</translation>
+        <translation type="unfinished">图标(&amp;I)：</translation>
     </message>
     <message>
         <source>Set channel icon.</source>
@@ -1716,7 +1716,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation>密码(&amp;P):</translation>
+        <translation type="unfinished">密码(&amp;P)：</translation>
     </message>
     <message>
         <source>Optional password for this channel.</source>
@@ -1724,7 +1724,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Topic:</source>
-        <translation>主题(&amp;T):</translation>
+        <translation type="unfinished">主题(&amp;T)：</translation>
     </message>
     <message>
         <source>Optional topic for this channel, displayed in the info area on the right.</source>
@@ -1732,7 +1732,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation>说明(&amp;D):</translation>
+        <translation type="unfinished">说明(&amp;D)：</translation>
     </message>
     <message>
         <source>Tear off description editor</source>
@@ -1782,7 +1782,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Sort This Channel After:</source>
-        <translation>排在此频道后面:</translation>
+        <translation type="unfinished">排在此频道后面：</translation>
     </message>
     <message>
         <source>Channel will be sorted below this channel.</source>
@@ -1794,7 +1794,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Needed Talk Power:</source>
-        <translation>发言所需权限(&amp;N):</translation>
+        <translation type="unfinished">发言所需权限(&amp;N)：</translation>
     </message>
     <message>
         <source>Talk power required to speak in this channel.</source>
@@ -1830,11 +1830,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Codec:</source>
-        <translation>编解码器(&amp;C):</translation>
+        <translation type="unfinished">编解码器(&amp;C)：</translation>
     </message>
     <message>
         <source>Quality:</source>
-        <translation>品质:</translation>
+        <translation type="unfinished">品质：</translation>
     </message>
     <message>
         <source>Codecs</source>
@@ -1842,7 +1842,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Bandwidth usage:</source>
-        <translation>预计带宽使用量:</translation>
+        <translation type="unfinished">预计带宽使用量：</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -1854,23 +1854,23 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Join:</source>
-        <translation>加入(&amp;J):</translation>
+        <translation type="unfinished">加入(&amp;J)：</translation>
     </message>
     <message>
         <source>&amp;Subscribe:</source>
-        <translation>订阅(&amp;S):</translation>
+        <translation type="unfinished">订阅(&amp;S)：</translation>
     </message>
     <message>
         <source>&amp;Desc. View:</source>
-        <translation>查看描述(&amp;D):</translation>
+        <translation type="unfinished">查看描述(&amp;D)：</translation>
     </message>
     <message>
         <source>&amp;Modify:</source>
-        <translation>修改(&amp;M):</translation>
+        <translation type="unfinished">修改(&amp;M)：</translation>
     </message>
     <message>
         <source>&amp;Delete:</source>
-        <translation>删除(&amp;D):</translation>
+        <translation type="unfinished">删除(&amp;D)：</translation>
     </message>
     <message>
         <source>File Transfer Needed Powers</source>
@@ -1878,23 +1878,23 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Browse:</source>
-        <translation>浏览(&amp;B):</translation>
+        <translation type="unfinished">浏览(&amp;B)：</translation>
     </message>
     <message>
         <source>&amp;Upload:</source>
-        <translation>上传(&amp;U):</translation>
+        <translation type="unfinished">上传(&amp;U)：</translation>
     </message>
     <message>
         <source>&amp;Download:</source>
-        <translation>下载(&amp;D):</translation>
+        <translation type="unfinished">下载(&amp;D)：</translation>
     </message>
     <message>
         <source>&amp;Rename:</source>
-        <translation>重命名(&amp;R):</translation>
+        <translation type="unfinished">重命名(&amp;R)：</translation>
     </message>
     <message>
         <source>&amp;Dir. Create:</source>
-        <translation>创建目录(&amp;D):</translation>
+        <translation type="unfinished">创建目录(&amp;D)：</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -1906,11 +1906,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Phonetic Name:</source>
-        <translation>名称发音(&amp;P):</translation>
+        <translation type="unfinished">名称发音(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Delete delay:</source>
-        <translation>删除延迟时间(&amp;D):</translation>
+        <translation type="unfinished">删除延迟时间(&amp;D)：</translation>
     </message>
     <message>
         <source>&lt;p&gt;Delay in seconds after temporary channels are deleted after the last user left the channel.&lt;/p&gt;</source>
@@ -1974,7 +1974,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Edit Channel: %1</source>
-        <translation>编辑频道: %1</translation>
+        <translation type="unfinished">编辑频道：%1</translation>
     </message>
     <message>
         <source>Create Sub-Channel</source>
@@ -2036,7 +2036,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Syntax: &quot;&lt;strong&gt;[?Spacer#]Text&lt;/strong&gt;&quot;</source>
-        <translation>格式: &quot;&lt;strong&gt;[?Spacer#]文本&lt;/strong&gt;&quot;</translation>
+        <translation type="unfinished">格式：&quot;&lt;strong&gt;[?Spacer#]文本&lt;/strong&gt;&quot;</translation>
     </message>
     <message>
         <source>Where &quot;?&quot; stands for an alignment (r=right, c=center, l=left),</source>
@@ -2052,11 +2052,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Use one of the three-character-blocks as text for a special spacer: &quot;---&quot;, &quot;...&quot;, &quot;-.-&quot;, &quot;___&quot;, &quot;-..&quot;</source>
-        <translation type="unfinished">使用以下三连字符作为特殊间隔的文本: “---”“...”“-.-”“___”“-..”</translation>
+        <translation type="unfinished">使用以下三连字符作为特殊间隔的文本：“---”“...”“-.-”“___”“-..”</translation>
     </message>
     <message>
         <source>Example:</source>
-        <translation type="unfinished">例如:</translation>
+        <translation type="unfinished">例如：</translation>
     </message>
     <message>
         <source>[lSpacer0] a left aligned text</source>
@@ -2109,11 +2109,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Available actions:</source>
-        <translation type="unfinished">可用行为:</translation>
+        <translation type="unfinished">可用行为：</translation>
     </message>
     <message>
         <source>Selected actions:</source>
-        <translation type="unfinished">已选行为:</translation>
+        <translation type="unfinished">已选行为：</translation>
     </message>
     <message>
         <source>Separator</source>
@@ -2247,11 +2247,11 @@ to chose lower values.</source>
     <name>EasyPermissionsWidget</name>
     <message>
         <source>This group will be set as:</source>
-        <translation type="unfinished">此组将会设置为:</translation>
+        <translation type="unfinished">此组将会设置为：</translation>
     </message>
     <message>
         <source>Icon:</source>
-        <translation type="unfinished">图标:</translation>
+        <translation type="unfinished">图标：</translation>
     </message>
     <message>
         <source>Set group icon.</source>
@@ -2263,7 +2263,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Show name in tree:</source>
-        <translation type="unfinished">在主界面显示组名称:</translation>
+        <translation type="unfinished">在主界面显示组名称：</translation>
     </message>
     <message>
         <source>Do not show</source>
@@ -2598,11 +2598,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished">搜索(&amp;S):</translation>
+        <translation type="unfinished">搜索(&amp;S)：</translation>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation type="unfinished">下载文件夹:</translation>
+        <translation type="unfinished">下载文件夹：</translation>
     </message>
     <message>
         <source>Open download folder</source>
@@ -2732,7 +2732,7 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Folder name:</source>
-        <translation type="unfinished">文件夹名称:</translation>
+        <translation type="unfinished">文件夹名称：</translation>
     </message>
     <message>
         <source>Upload file contains bad character, skipping upload &quot;%1&quot;</source>
@@ -2807,11 +2807,11 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Upload finished: %1</source>
-        <translation type="unfinished">上传完毕: %1</translation>
+        <translation type="unfinished">上传完毕：%1</translation>
     </message>
     <message>
         <source>Download finished: %1</source>
-        <translation type="unfinished">下载完毕: %1</translation>
+        <translation type="unfinished">下载完毕：%1</translation>
     </message>
     <message>
         <source>skipped</source>
@@ -2831,7 +2831,7 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>failed: %1</source>
-        <translation type="unfinished">失败: %1</translation>
+        <translation type="unfinished">失败：%1</translation>
     </message>
     <message>
         <source>paused</source>
@@ -2888,7 +2888,7 @@ selected files from your computer?</source>
     <name>FileTransferView</name>
     <message>
         <source>Upload Limit - Slots:</source>
-        <translation>上传限制 - 数量:</translation>
+        <translation type="unfinished">上传限制 - 数量：</translation>
     </message>
     <message>
         <source>KiB/s</source>
@@ -2896,11 +2896,11 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Speed: </source>
-        <translation>速度: </translation>
+        <translation type="unfinished">速度：</translation>
     </message>
     <message>
         <source>Download Limit - Slots:</source>
-        <translation>下载限制 - 数量:</translation>
+        <translation type="unfinished">下载限制 - 数量：</translation>
     </message>
     <message>
         <source>Clean Up</source>
@@ -2944,7 +2944,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Down: %1</source>
-        <translation>下载: %1</translation>
+        <translation type="unfinished">下载：%1</translation>
     </message>
     <message>
         <source>%1% download</source>
@@ -2952,7 +2952,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Up: %1</source>
-        <translation>上传: %1</translation>
+        <translation type="unfinished">上传：%1</translation>
     </message>
     <message>
         <source>%1% upload</source>
@@ -3124,7 +3124,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Custom &amp;Nickname:</source>
-        <translation>自定义昵称(&amp;N):</translation>
+        <translation type="unfinished">自定义昵称(&amp;N)：</translation>
     </message>
     <message>
         <source>Enter custom nickname</source>
@@ -3164,7 +3164,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished">昵称发音(&amp;P):</translation>
+        <translation type="unfinished">昵称发音(&amp;P)：</translation>
     </message>
     <message>
         <source>Client nickname written as phonemes (optional)</source>
@@ -3310,7 +3310,7 @@ everyone.</source>
     </message>
     <message>
         <source>Online:</source>
-        <translation>在线:</translation>
+        <translation type="unfinished">在线：</translation>
     </message>
 </context>
 <context>
@@ -3373,19 +3373,19 @@ Do you want to restart now?</source>
     <name>GatherUploadInformation</name>
     <message>
         <source>Directories to go: %1</source>
-        <translation type="unfinished">前往目录: %1</translation>
+        <translation type="unfinished">前往目录：%1</translation>
     </message>
     <message>
         <source>Directories: %1</source>
-        <translation type="unfinished">目录: %1</translation>
+        <translation type="unfinished">目录：%1</translation>
     </message>
     <message>
         <source>Files: %1</source>
-        <translation type="unfinished">文件: %1</translation>
+        <translation type="unfinished">文件：%1</translation>
     </message>
     <message>
         <source>Data: %1</source>
-        <translation type="unfinished">数据: %1</translation>
+        <translation type="unfinished">数据：%1</translation>
     </message>
     <message>
         <source>Gathering files...</source>
@@ -3420,19 +3420,19 @@ Do you want to restart now?</source>
     </message>
     <message>
         <source>Directories to go: 0</source>
-        <translation type="unfinished">前往目录: 0</translation>
+        <translation type="unfinished">前往目录：0</translation>
     </message>
     <message>
         <source>Directories: 0</source>
-        <translation type="unfinished">目录: 0</translation>
+        <translation type="unfinished">目录：0</translation>
     </message>
     <message>
         <source>Files: 0</source>
-        <translation type="unfinished">文件: 0</translation>
+        <translation type="unfinished">文件：0</translation>
     </message>
     <message>
         <source>Data: 0</source>
-        <translation type="unfinished">数据: 0</translation>
+        <translation type="unfinished">数据：0</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -3481,11 +3481,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create group using this type:</source>
-        <translation type="unfinished">使用此类型创建群组:</translation>
+        <translation type="unfinished">使用此类型创建群组：</translation>
     </message>
     <message>
         <source>Create group using this template:</source>
-        <translation type="unfinished">使用此模板创建群组:</translation>
+        <translation type="unfinished">使用此模板创建群组：</translation>
     </message>
     <message>
         <source>Regular group</source>
@@ -4045,7 +4045,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Warning: Discarding &quot;On key release&quot; can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;警告: 舍弃“当按键松开时”设置 会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;警告：舍弃“当按键松开时”设置会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Hint:&lt;/strong&gt; If you deactivate a Hotkey Profile, all hotkeys probably become unavailable!</source>
@@ -4322,7 +4322,7 @@ Do you want to proceed?</source>
     </message>
     <message>
         <source>Icon Pack:</source>
-        <translation type="unfinished">图标包:</translation>
+        <translation type="unfinished">图标包：</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -4373,15 +4373,15 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>&amp;Identity Name:</source>
-        <translation type="unfinished">身份名称(&amp;I):</translation>
+        <translation type="unfinished">身份名称(&amp;I)：</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation type="unfinished">昵称(&amp;N):</translation>
+        <translation type="unfinished">昵称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished">昵称发音(&amp;P):</translation>
+        <translation type="unfinished">昵称发音(&amp;P)：</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
@@ -4389,11 +4389,11 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation type="unfinished">&amp;UID:</translation>
+        <translation type="unfinished">&amp;UID：</translation>
     </message>
     <message>
         <source>Security Level:</source>
-        <translation type="unfinished">安全等级:</translation>
+        <translation type="unfinished">安全等级：</translation>
     </message>
     <message>
         <source>1</source>
@@ -4442,19 +4442,19 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished">身份:</translation>
+        <translation type="unfinished">身份：</translation>
     </message>
     <message>
         <source>Current Security Level:</source>
-        <translation type="unfinished">当前安全等级:</translation>
+        <translation type="unfinished">当前安全等级：</translation>
     </message>
     <message>
         <source>&amp;Requested Security Level:</source>
-        <translation type="unfinished">目标安全等级(&amp;R):</translation>
+        <translation type="unfinished">目标安全等级(&amp;R)：</translation>
     </message>
     <message>
         <source>Elapsed Time:</source>
-        <translation type="unfinished">运行时间:</translation>
+        <translation type="unfinished">运行时间：</translation>
     </message>
     <message>
         <source>00:00</source>
@@ -4462,7 +4462,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Total Time Ballpark Figure:</source>
-        <translation type="unfinished">预计耗时:</translation>
+        <translation type="unfinished">预计耗时：</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -4785,11 +4785,11 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Invitation Type:</source>
-        <translation type="unfinished">邀请类型:</translation>
+        <translation type="unfinished">邀请类型：</translation>
     </message>
     <message>
         <source>Insert my current:</source>
-        <translation type="unfinished">插入我当前的:</translation>
+        <translation type="unfinished">插入我当前的：</translation>
     </message>
     <message>
         <source>Channel</source>
@@ -4880,8 +4880,8 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <message>
         <source>Toggle Subscribe Mode for this server
 Current: %1</source>
-        <translation>切换此服务器的订阅模式
-当前:  %1</translation>
+        <translation type="unfinished">切换此服务器的订阅模式
+当前： %1</translation>
     </message>
     <message>
         <source>Subscribe all</source>
@@ -4909,11 +4909,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&lt;p style=&quot;color:blue;&quot;&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style=&quot;color:blue;&quot;&gt;内置命令: /close，/clear，/exit&lt;br&gt;插件命令: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p style=&quot;color:blue;&quot;&gt;内置命令：/close，/clear，/exit&lt;br&gt;插件命令：/&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;span style=&quot;color:red;&quot;&gt;Invalid command or missing parameters: %1&lt;/span&gt;</source>
-        <translation type="unfinished">&lt;span style=&quot;color:red;&quot;&gt;无效的命令或缺少参数: %1&lt;/span&gt;</translation>
+        <translation type="unfinished">&lt;span style=&quot;color:red;&quot;&gt;无效的命令或缺少参数：%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones on all servers</source>
@@ -4953,11 +4953,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&lt;p&gt;This is a newly configured server for which administrator privileges have not yet been claimed.&lt;br&gt;Please enter the Privilege Key that was automatically generated when this server was created&lt;br&gt;to gain administrator privileges.&lt;/p&gt;&lt;p&gt;Enter Privilege Key:&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;这是一个新配置的服务器，尚未指定任何管理员权限。&lt;br&gt;请输入创建此服务器时自动生成的权限密钥以获得管理员权限。&lt;/p&gt;&lt;p&gt;输入权限密钥:&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;这是一个新配置的服务器，尚未指定任何管理员权限。&lt;br&gt;请输入创建此服务器时自动生成的权限密钥以获得管理员权限。&lt;/p&gt;&lt;p&gt;输入权限密钥：&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Enter Privilege Key:</source>
-        <translation type="unfinished">输入权限密钥:</translation>
+        <translation type="unfinished">输入权限密钥：</translation>
     </message>
     <message>
         <source>Select File</source>
@@ -4969,7 +4969,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Transfer &quot;%1&quot; reports: (%2)</source>
-        <translation type="unfinished">传输 &quot;%1&quot; 报告:（%2）</translation>
+        <translation type="unfinished">传输 &quot;%1&quot; 报告：（%2）</translation>
     </message>
     <message>
         <source>Question</source>
@@ -5177,7 +5177,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Visit the TeamSpeak webpage at www.TeamSpeak.com</source>
-        <translation>访问 TeamSpeak 官网: www.TeamSpeak.com</translation>
+        <translation type="unfinished">访问 TeamSpeak 官网：www.TeamSpeak.com</translation>
     </message>
     <message>
         <source>Visit TeamSpeak Community Forum</source>
@@ -5197,7 +5197,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Visit the TeamSpeak support forum at forum.TeamSpeak.com</source>
-        <translation>访问 TeamSpeak 官方支持论坛: forum.TeamSpeak.com</translation>
+        <translation type="unfinished">访问 TeamSpeak 官方支持论坛：forum.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;Rent own TeamSpeak Server</source>
@@ -5614,11 +5614,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Playback Profile: &lt;strong&gt;%1&lt;/strong&gt; </source>
-        <translation type="unfinished">输出配置: &lt;strong&gt;%1&lt;/strong&gt; </translation>
+        <translation type="unfinished">输出配置：&lt;strong&gt;%1&lt;/strong&gt; </translation>
     </message>
     <message>
         <source>&lt;strong&gt;&lt;br&gt;Hint: &lt;/strong&gt;</source>
-        <translation type="unfinished">&lt;strong&gt;&lt;br&gt;提示: &lt;/strong&gt;</translation>
+        <translation type="unfinished">&lt;strong&gt;&lt;br&gt;提示：&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Values greater than zero and less than +6 dB might cause moderate clipping and distortion, but should still be within acceptable bounds.</source>
@@ -5637,7 +5637,7 @@ Current: %1</source>
     <name>MessagesSetup</name>
     <message>
         <source>&amp;Disconnect Message:</source>
-        <translation type="unfinished">离线提示(&amp;D):</translation>
+        <translation type="unfinished">离线提示(&amp;D)：</translation>
     </message>
     <message>
         <source>Customize message sent when disconnecting</source>
@@ -5741,7 +5741,7 @@ Current: %1</source>
     <name>NewsWidget</name>
     <message>
         <source>News:</source>
-        <translation type="unfinished">新闻:</translation>
+        <translation type="unfinished">新闻：</translation>
     </message>
     <message>
         <source>Hide this news</source>
@@ -5756,11 +5756,11 @@ Current: %1</source>
     <name>NotificationsSetup</name>
     <message>
         <source>&amp;Sound Pack:</source>
-        <translation type="unfinished">音效包(&amp;S):</translation>
+        <translation type="unfinished">音效包(&amp;S)：</translation>
     </message>
     <message>
         <source>&amp;While Output Muted:</source>
-        <translation type="unfinished">输出静音时(&amp;W):</translation>
+        <translation type="unfinished">输出静音时(&amp;W)：</translation>
     </message>
     <message>
         <source>Use as Default for all Bookmarks</source>
@@ -5768,7 +5768,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Hint: The Sound Pack can be overwritten for each &lt;a href=&quot;jumpTo:OpenBookmarks&quot;&gt;Bookmark&lt;/a&gt;.</source>
-        <translation type="unfinished">提示: 音效包可以覆盖每个单独的&lt;a href=&quot;jump To:Open Bookmarks&quot;&gt;书签&lt;/a&gt;。</translation>
+        <translation type="unfinished">提示：音效包可以覆盖每个单独的&lt;a href=&quot;jump To:Open Bookmarks&quot;&gt;书签&lt;/a&gt;。</translation>
     </message>
     <message>
         <source>Play selected sound (Alt+P)</source>
@@ -6318,7 +6318,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">主题:</translation>
+        <translation type="unfinished">主题：</translation>
     </message>
     <message>
         <source>Reload messages&lt;br&gt;(F5)</source>
@@ -6407,7 +6407,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Recipients:</source>
-        <translation type="unfinished">收件人:</translation>
+        <translation type="unfinished">收件人：</translation>
     </message>
     <message>
         <source>Text</source>
@@ -6415,11 +6415,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished">主题(&amp;S):</translation>
+        <translation type="unfinished">主题(&amp;S)：</translation>
     </message>
     <message>
         <source>Available Contacts:</source>
-        <translation type="unfinished">可用联系人:</translation>
+        <translation type="unfinished">可用联系人：</translation>
     </message>
     <message>
         <source>Send</source>
@@ -6456,7 +6456,7 @@ Current: %1</source>
     <message>
         <source>&quot;%1&quot; wrote:
 </source>
-        <translation type="unfinished">&quot;%1&quot; 写道:
+        <translation type="unfinished">&quot;%1&quot; 写道：
 </translation>
     </message>
     <message>
@@ -6516,18 +6516,18 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Enter client unique ID or database ID:</source>
-        <translation type="unfinished">填写客户端 UID 或数据库 ID:</translation>
+        <translation type="unfinished">填写客户端 UID 或数据库 ID：</translation>
     </message>
 </context>
 <context>
     <name>PermChunkClient</name>
     <message>
         <source>Drag &amp; Drop client here or enter client unique ID:</source>
-        <translation type="unfinished">拖动客户端到此处或输入客户端UID:</translation>
+        <translation type="unfinished">拖动客户端到此处或输入客户端UID：</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished">昵称:</translation>
+        <translation type="unfinished">昵称：</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -6535,7 +6535,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Unique ID:</source>
-        <translation type="unfinished">UID:</translation>
+        <translation type="unfinished">UID：</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6917,7 +6917,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Invalid permission: 0x%1</source>
-        <translation type="unfinished">无效的权限: 0x%1</translation>
+        <translation type="unfinished">无效的权限：0x%1</translation>
     </message>
 </context>
 <context>
@@ -7157,7 +7157,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Enter your Phonetic Nickname:</source>
-        <translation type="unfinished">输入您的昵称发音:</translation>
+        <translation type="unfinished">输入您的昵称发音：</translation>
     </message>
     <message>
         <source>&amp;Play</source>
@@ -7236,7 +7236,7 @@ Would you like to create an invitation instead?</source>
     <message>
         <source>Error opening playback device:
 %1</source>
-        <translation type="unfinished">打开输出设备时错误:
+        <translation type="unfinished">打开输出设备时错误：
 %1</translation>
     </message>
     <message>
@@ -7566,11 +7566,11 @@ saved passwords and identities.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">密码:</translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Password incorrect. Try again:</source>
-        <translation type="unfinished">密码错误。请重试:</translation>
+        <translation type="unfinished">密码错误。请重试：</translation>
     </message>
     <message>
         <source>Enter master password</source>
@@ -7656,7 +7656,7 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Code:</source>
-        <translation type="unfinished">代码:</translation>
+        <translation type="unfinished">代码：</translation>
     </message>
     <message>
         <source>Redeem</source>
@@ -7698,7 +7698,7 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Enter your recovery key:</source>
-        <translation type="unfinished">输入您的恢复密钥:</translation>
+        <translation type="unfinished">输入您的恢复密钥：</translation>
     </message>
     <message>
         <source>Apply key</source>
@@ -7757,7 +7757,7 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished">搜索:</translation>
+        <translation type="unfinished">搜索：</translation>
     </message>
 </context>
 <context>
@@ -7927,7 +7927,7 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished">搜索(&amp;E):</translation>
+        <translation type="unfinished">搜索(&amp;E)：</translation>
     </message>
     <message>
         <source>Search text in log.
@@ -7937,7 +7937,7 @@ Press Enter to search next location.</source>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished">过滤器(&amp;F):</translation>
+        <translation type="unfinished">过滤器(&amp;F)：</translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
@@ -7990,7 +7990,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Exclude log entries containing the following terms:</source>
-        <translation type="unfinished">排除包含以下术语的日志条目:</translation>
+        <translation type="unfinished">排除包含以下术语的日志条目：</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -8348,7 +8348,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Invalid server address: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</source>
-        <translation type="unfinished">服务器地址无效: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</translation>
+        <translation type="unfinished">服务器地址无效：&lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Trying to resolve hostname &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
@@ -8380,11 +8380,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Error retrieving filebrowser: %1</source>
-        <translation type="unfinished">检索文件浏览器时出错: %1</translation>
+        <translation type="unfinished">检索文件浏览器时出错：%1</translation>
     </message>
     <message>
         <source>Error refreshing file list: %1</source>
-        <translation type="unfinished">刷新文件列表时出错: %1</translation>
+        <translation type="unfinished">刷新文件列表时出错：%1</translation>
     </message>
     <message>
         <source>You don&apos;t have permissions to send channel chat messages, failed to send text message.</source>
@@ -8410,7 +8410,7 @@ Do you want to send a channel chat message instead?</source>
     </message>
     <message>
         <source>Enter server password:</source>
-        <translation type="unfinished">请输入服务器密码:</translation>
+        <translation type="unfinished">请输入服务器密码：</translation>
     </message>
     <message>
         <source>Send Offline Message</source>
@@ -8426,7 +8426,7 @@ Do you want to send a channel chat message instead?</source>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;The identity of this server has changed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This could have one of these reasons:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;A new TeamSpeak server is running at this address.&lt;/li&gt;&lt;li&gt;The security of your connection to this server is compromised,&lt;br&gt;a man-in-the-middle attack is taking place.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Do you want to accept the new identity and remain connected?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;此服务器的身份识别已更改。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这可能是以下原因引起的:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;新的 TeamSpeak 服务器正在此地址运行。&lt;/li&gt;&lt;li&gt;您与此服务器的连接安全性受到影响，&lt;br&gt;服务器正在遭受中间人攻击。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;您想接受新的服务器标识并保持连接吗？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;此服务器的身份识别已更改。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这可能是以下原因引起的：&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;新的 TeamSpeak 服务器正在此地址运行。&lt;/li&gt;&lt;li&gt;您与此服务器的连接安全性受到影响，&lt;br&gt;服务器正在遭受中间人攻击。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;您想接受新的服务器标识并保持连接吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>You have %1</source>
@@ -8482,7 +8482,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Kick Message:</source>
-        <translation type="unfinished">踢出信息:</translation>
+        <translation type="unfinished">踢出信息：</translation>
     </message>
     <message>
         <source>Poke</source>
@@ -8490,7 +8490,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Poke Reason:</source>
-        <translation type="unfinished">为啥戳他:</translation>
+        <translation type="unfinished">为啥戳他：</translation>
     </message>
     <message>
         <source>Complaint</source>
@@ -8506,7 +8506,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Client banned: %1</source>
-        <translation type="unfinished">用户被封禁: %1</translation>
+        <translation type="unfinished">用户被封禁：%1</translation>
     </message>
     <message>
         <source>Failed to remove priority speaker. Probably it was not set as channel client permission. Check other permissions types manually in the permissions window.</source>
@@ -8530,7 +8530,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Failed to use Privilege Key: %1</source>
-        <translation type="unfinished">使用权限密钥失败: %1</translation>
+        <translation type="unfinished">使用权限密钥失败：%1</translation>
     </message>
     <message>
         <source>This ServerQuery login name is already used.</source>
@@ -8542,7 +8542,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Client Description:</source>
-        <translation type="unfinished">个人简介:</translation>
+        <translation type="unfinished">个人简介：</translation>
     </message>
     <message>
         <source>The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.</source>
@@ -8610,7 +8610,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Connected to Server: %1</source>
-        <translation type="unfinished">连接到服务器: %1</translation>
+        <translation type="unfinished">连接到服务器：%1</translation>
     </message>
     <message>
         <source>&lt;p&gt;This client version is outdated.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
@@ -8622,7 +8622,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&lt;p&gt;The following features are known to not function properly:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</source>
-        <translation type="unfinished">&lt;p&gt;已知以下功能无法正常运行:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;已知以下功能无法正常运行：&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Sending and receiving text chat messages&lt;/li&gt;</source>
@@ -8870,15 +8870,15 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Server has been shut down: %1</source>
-        <translation type="unfinished">服务器被关闭: %1</translation>
+        <translation type="unfinished">服务器被关闭：%1</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you: %3&lt;/div&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 戳了你一下并说: %3&lt;/div&gt;&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 戳了你一下并说：%3&lt;/div&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>%1 pokes you: %2</source>
-        <translation type="unfinished">%1 戳了你一下: %2</translation>
+        <translation type="unfinished">%1 戳了你一下：%2</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you.&lt;/div&gt;&lt;/p&gt;</source>
@@ -8890,7 +8890,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 - %2 pokes you: %3</source>
-        <translation type="unfinished">%1 - %2 戳了你一下并说: %3</translation>
+        <translation type="unfinished">%1 - %2 戳了你一下并说：%3</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you.</source>
@@ -8974,7 +8974,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>You poked %1 with message: %2</source>
-        <translation type="unfinished">你戳了一下 %1 并发送消息: %2</translation>
+        <translation type="unfinished">你戳了一下 %1 并发送消息：%2</translation>
     </message>
     <message>
         <source>You poked %1.</source>
@@ -9554,7 +9554,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Connection failed: &lt;strong&gt;The channel reached its maximum amount of clients&lt;/strong&gt;.&lt;br&gt;Would you like to join the servers default channel instead?</source>
-        <translation type="unfinished">连接失败: &lt;strong&gt;频道已达到最大客户端数量&lt;/strong&gt;。&lt;br&gt;您是否要加入该服务器的默认频道？</translation>
+        <translation type="unfinished">连接失败：&lt;strong&gt;频道已达到最大客户端数量&lt;/strong&gt;。&lt;br&gt;您是否要加入该服务器的默认频道？</translation>
     </message>
     <message>
         <source>Connection failed because the channel reached its maximum amount of family clients.</source>
@@ -9590,11 +9590,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&lt;strong&gt;Note: This channel contains files.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">&lt;strong&gt;注意: 此频道内存在文件。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished">&lt;strong&gt;注意：此频道内存在文件。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Note: This channel could contain files.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">&lt;strong&gt;注意: 此频道可能包含文件。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished">&lt;strong&gt;注意：此频道可能包含文件。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>There are clients inside this channel.&lt;br&gt;Really delete this channel and kick all clients out of it?</source>
@@ -9800,7 +9800,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Current Sound Pack:</source>
-        <translation type="unfinished">当前音效包:</translation>
+        <translation type="unfinished">当前音效包：</translation>
     </message>
 </context>
 <context>
@@ -9952,15 +9952,15 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Temporary password:</source>
-        <translation type="unfinished">临时密码:</translation>
+        <translation type="unfinished">临时密码：</translation>
     </message>
     <message>
         <source>Description (optional):</source>
-        <translation type="unfinished">简介（可选）:</translation>
+        <translation type="unfinished">简介（可选）：</translation>
     </message>
     <message>
         <source>Expires after:</source>
-        <translation type="unfinished">在此后过期:</translation>
+        <translation type="unfinished">在此后过期：</translation>
     </message>
     <message>
         <source>days</source>
@@ -9976,12 +9976,12 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Channel to join:</source>
-        <translation type="unfinished">加入的频道:</translation>
+        <translation type="unfinished">加入的频道：</translation>
     </message>
     <message>
         <source>Channel password
 (optional):</source>
-        <translation type="unfinished">频道密码（可选）:</translation>
+        <translation type="unfinished">频道密码（可选）：</translation>
     </message>
     <message>
         <source>No target channel</source>
@@ -10307,11 +10307,11 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>upload to: </source>
-        <translation type="unfinished">上传至: </translation>
+        <translation type="unfinished">上传至：</translation>
     </message>
     <message>
         <source>download from: </source>
-        <translation type="unfinished">下载自: </translation>
+        <translation type="unfinished">下载自：</translation>
     </message>
     <message>
         <source>Queue %1</source>
@@ -10556,11 +10556,11 @@ Do you want to apply your changes?</source>
     <name>UIFileTransferManager</name>
     <message>
         <source>Error creating directory: %1 %2</source>
-        <translation type="unfinished">创建目录错误: %1 %2</translation>
+        <translation type="unfinished">创建目录错误：%1 %2</translation>
     </message>
     <message>
         <source>Error downloading file: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">下载文件错误: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation type="unfinished">下载文件错误：&lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Downloads from other servers are deactivated for now!</source>
@@ -10674,7 +10674,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished">搜索(&amp;S):</translation>
+        <translation type="unfinished">搜索(&amp;S)：</translation>
     </message>
     <message>
         <source>&amp;Clear list</source>
@@ -10693,7 +10693,7 @@ TeamSpeak will be closed if you proceed.</source>
     <name>UserVolumeWidget</name>
     <message>
         <source>Master volume:</source>
-        <translation type="unfinished">主音量:</translation>
+        <translation type="unfinished">主音量：</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -10743,31 +10743,31 @@ TeamSpeak will be closed if you proceed.</source>
     <name>VirtualServerEditDialog</name>
     <message>
         <source>Icon:</source>
-        <translation>图标:</translation>
+        <translation type="unfinished">图标：</translation>
     </message>
     <message>
         <source>Reserved Slots:</source>
-        <translation type="unfinished">保留栏位:</translation>
+        <translation type="unfinished">保留栏位：</translation>
     </message>
     <message>
         <source>Server Name:</source>
-        <translation type="unfinished">服务器名称:</translation>
+        <translation type="unfinished">服务器名称：</translation>
     </message>
     <message>
         <source>Maximum Clients:</source>
-        <translation type="unfinished">用户上限:</translation>
+        <translation type="unfinished">用户上限：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Welcome Message:</source>
-        <translation type="unfinished">欢迎提示:</translation>
+        <translation type="unfinished">欢迎提示：</translation>
     </message>
     <message>
         <source>Server Nicknames:</source>
-        <translation type="unfinished">服务器别名:</translation>
+        <translation type="unfinished">服务器别名：</translation>
     </message>
     <message>
         <source>&lt;p&gt;Server nicknames are registered on the myTeamSpeak webpage and can be used to easily connect to a TeamSpeak Server.&lt;/p&gt;
@@ -10785,11 +10785,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Message:</source>
-        <translation type="unfinished">信息:</translation>
+        <translation type="unfinished">信息：</translation>
     </message>
     <message>
         <source>Message Mode:</source>
-        <translation type="unfinished">显示模式:</translation>
+        <translation type="unfinished">显示模式：</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -10801,19 +10801,19 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Banner Gfx URL:</source>
-        <translation type="unfinished">旗帜图片地址:</translation>
+        <translation type="unfinished">旗帜图片地址：</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished">网址:</translation>
+        <translation type="unfinished">网址：</translation>
     </message>
     <message>
         <source>Gfx Interval:</source>
-        <translation type="unfinished">图片更新时间:</translation>
+        <translation type="unfinished">图片更新时间：</translation>
     </message>
     <message>
         <source>Resize:</source>
-        <translation type="unfinished">缩放:</translation>
+        <translation type="unfinished">缩放：</translation>
     </message>
     <message>
         <source>Do not adjust</source>
@@ -10833,11 +10833,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Tooltip: </source>
-        <translation type="unfinished">提示信息: </translation>
+        <translation type="unfinished">提示信息：</translation>
     </message>
     <message>
         <source>Icon URL:</source>
-        <translation type="unfinished">图标地址:</translation>
+        <translation type="unfinished">图标地址：</translation>
     </message>
     <message>
         <source>Integrations</source>
@@ -10857,11 +10857,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Upload Quota:</source>
-        <translation type="unfinished">上传限额:</translation>
+        <translation type="unfinished">上传限额：</translation>
     </message>
     <message>
         <source>Bandwidth Limit:</source>
-        <translation type="unfinished">带宽限制:</translation>
+        <translation type="unfinished">带宽限制：</translation>
     </message>
     <message>
         <source>MiB</source>
@@ -10873,7 +10873,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Download Quota:</source>
-        <translation type="unfinished">下载限额:</translation>
+        <translation type="unfinished">下载限额：</translation>
     </message>
     <message>
         <source>Anti-Flood</source>
@@ -10891,7 +10891,7 @@ Per a given time, points are automatically reduced.</translatorcomment>
     <message>
         <source>Reduced points per tick:</source>
         <translatorcomment>临时翻译</translatorcomment>
-        <translation type="unfinished">每周期时间减少点数:</translation>
+        <translation type="unfinished">每周期时间减少点数：</translation>
     </message>
     <message>
         <source>Points needed to block commands:</source>
@@ -10909,11 +10909,11 @@ Per a given time, points are automatically reduced.</translatorcomment>
     </message>
     <message>
         <source>Needed Security Level:</source>
-        <translation type="unfinished">需要的安全等级:</translation>
+        <translation type="unfinished">需要的安全等级：</translation>
     </message>
     <message>
         <source>Channel voice data encryption:</source>
-        <translation type="unfinished">频道语音加密:</translation>
+        <translation type="unfinished">频道语音加密：</translation>
     </message>
     <message>
         <source>Configure per Channel</source>
@@ -10953,15 +10953,15 @@ Per a given time, points are automatically reduced.</translatorcomment>
     </message>
     <message>
         <source>Autoban Count:</source>
-        <translation type="unfinished">自动封禁次数:</translation>
+        <translation type="unfinished">自动封禁次数：</translation>
     </message>
     <message>
         <source>Autoban Time:</source>
-        <translation type="unfinished">自动封禁时间:</translation>
+        <translation type="unfinished">自动封禁时间：</translation>
     </message>
     <message>
         <source>Remove Time:</source>
-        <translation type="unfinished">移除时间:</translation>
+        <translation type="unfinished">移除时间：</translation>
     </message>
     <message>
         <source> sec</source>
@@ -10975,11 +10975,11 @@ Per a given time, points are automatically reduced.</translatorcomment>
     </message>
     <message>
         <source>Min clients in channel before silence:</source>
-        <translation type="unfinished">强制频道静音所需用户量:</translation>
+        <translation type="unfinished">强制频道静音所需用户量：</translation>
     </message>
     <message>
         <source>Delete delay for temporary channels:</source>
-        <translation type="unfinished">临时频道延迟删除时间:</translation>
+        <translation type="unfinished">临时频道延迟删除时间：</translation>
     </message>
     <message>
         <source>&lt;p&gt;Delay in seconds after temporary channels are deleted after the last user left the channel.&lt;/p&gt;</source>
@@ -10988,7 +10988,7 @@ Per a given time, points are automatically reduced.</translatorcomment>
     <message>
         <source>Phonetic Name:</source>
         <translatorcomment>临时翻译</translatorcomment>
-        <translation type="unfinished">名称发音:</translation>
+        <translation type="unfinished">名称发音：</translation>
     </message>
     <message>
         <source>Enable reporting to server list</source>
@@ -11000,7 +11000,7 @@ Per a given time, points are automatically reduced.</translatorcomment>
     </message>
     <message>
         <source>Enable Logging For:</source>
-        <translation type="unfinished">对以下项启用日志:</translation>
+        <translation type="unfinished">对以下项启用日志：</translation>
     </message>
     <message>
         <source>Clients</source>
@@ -11092,7 +11092,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Please confirm the new Password:</source>
-        <translation type="unfinished">请确认新密码:</translation>
+        <translation type="unfinished">请确认新密码：</translation>
     </message>
     <message>
         <source>Your entered passwords did not match!
@@ -11148,11 +11148,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Phone number:</source>
-        <translation type="unfinished">电话号码:</translation>
+        <translation type="unfinished">电话号码：</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished">昵称:</translation>
+        <translation type="unfinished">昵称：</translation>
     </message>
     <message>
         <source>Phone Client</source>
@@ -11160,19 +11160,19 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Telephony account:</source>
-        <translation type="unfinished">电话账号:</translation>
+        <translation type="unfinished">电话账号：</translation>
     </message>
     <message>
         <source>Invite to channel:</source>
-        <translation type="unfinished">邀请至频道:</translation>
+        <translation type="unfinished">邀请至频道：</translation>
     </message>
     <message>
         <source>Channel password:</source>
-        <translation type="unfinished">频道密码:</translation>
+        <translation type="unfinished">频道密码：</translation>
     </message>
     <message>
         <source>Server password:</source>
-        <translation type="unfinished">服务器密码:</translation>
+        <translation type="unfinished">服务器密码：</translation>
     </message>
     <message>
         <source>Verify channel password</source>
@@ -11230,11 +11230,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Max Simultanious calls:</source>
-        <translation type="unfinished">最大同时通话:</translation>
+        <translation type="unfinished">最大同时通话：</translation>
     </message>
     <message>
         <source>STUN Server:</source>
-        <translation type="unfinished">STUN 服务器:</translation>
+        <translation type="unfinished">STUN 服务器：</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -11246,7 +11246,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>SIP Port:</source>
-        <translation type="unfinished">SIP 端口:</translation>
+        <translation type="unfinished">SIP 端口：</translation>
     </message>
     <message>
         <source>Outbound Proxy for NAT</source>
@@ -11254,15 +11254,15 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Proxy Server:</source>
-        <translation type="unfinished">代理服务器:</translation>
+        <translation type="unfinished">代理服务器：</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">用户名:</translation>
+        <translation type="unfinished">用户名：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">密码:</translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Voip Accounts</source>
@@ -11278,15 +11278,15 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Domain/Realm:</source>
-        <translation type="unfinished">域:</translation>
+        <translation type="unfinished">域：</translation>
     </message>
     <message>
         <source>Outbound Proxy:</source>
-        <translation type="unfinished">出站代理:</translation>
+        <translation type="unfinished">出站代理：</translation>
     </message>
     <message>
         <source>Registration Timeout:</source>
-        <translation type="unfinished">注册超时:</translation>
+        <translation type="unfinished">注册超时：</translation>
     </message>
     <message>
         <source> seconds</source>
@@ -11294,11 +11294,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Keep-Alive Timeout:</source>
-        <translation type="unfinished">保持连接超时:</translation>
+        <translation type="unfinished">保持连接超时：</translation>
     </message>
     <message>
         <source>Accept Calls:</source>
-        <translation type="unfinished">接受通话:</translation>
+        <translation type="unfinished">接受通话：</translation>
     </message>
     <message>
         <source>Never</source>
@@ -11314,11 +11314,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>TS3 Server Address:</source>
-        <translation type="unfinished">TS3 服务器地址:</translation>
+        <translation type="unfinished">TS3 服务器地址：</translation>
     </message>
     <message>
         <source>TS3 Server Port:</source>
-        <translation type="unfinished">TS3 服务器端口:</translation>
+        <translation type="unfinished">TS3 服务器端口：</translation>
     </message>
     <message>
         <source>TS3 Nickname</source>
@@ -11326,7 +11326,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>TS3 Server Password:</source>
-        <translation type="unfinished">TS3 服务器密码:</translation>
+        <translation type="unfinished">TS3 服务器密码：</translation>
     </message>
     <message>
         <source>Local Account</source>
@@ -11392,15 +11392,15 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>&amp;Country:</source>
-        <translation type="unfinished">国家(&amp;C):</translation>
+        <translation type="unfinished">国家(&amp;C)：</translation>
     </message>
     <message>
         <source>&amp;Region:</source>
-        <translation type="unfinished">地区(&amp;R):</translation>
+        <translation type="unfinished">地区(&amp;R)：</translation>
     </message>
     <message>
         <source>&amp;City:</source>
-        <translation type="unfinished">城市(&amp;C):</translation>
+        <translation type="unfinished">城市(&amp;C)：</translation>
     </message>
     <message>
         <source>Users</source>
@@ -11524,11 +11524,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Displaying %1 servers, last updated: %2</source>
-        <translation type="unfinished">正在显示 %1 个服务器，最后更新于: %2</translation>
+        <translation type="unfinished">正在显示 %1 个服务器，最后更新于：%2</translation>
     </message>
     <message>
         <source>Last update: %1</source>
-        <translation type="unfinished">最后更新: %1</translation>
+        <translation type="unfinished">最后更新：%1</translation>
     </message>
     <message>
         <source>Selecting &lt;strong&gt;Own country&lt;/strong&gt; failed.</source>
@@ -11639,11 +11639,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Whisper to:</source>
-        <translation type="unfinished">密语对象:</translation>
+        <translation type="unfinished">密语对象：</translation>
     </message>
     <message>
         <source>Hotkey:</source>
-        <translation type="unfinished">快捷键:</translation>
+        <translation type="unfinished">快捷键：</translation>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
@@ -11651,7 +11651,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Reply Hotkey:</source>
-        <translation type="unfinished">重复输入快捷键:</translation>
+        <translation type="unfinished">重复输入快捷键：</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;more&lt;/span&gt;&lt;/a&gt;</source>
@@ -11659,11 +11659,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Group Whisper Type:</source>
-        <translation type="unfinished">密语组类型:</translation>
+        <translation type="unfinished">密语组类型：</translation>
     </message>
     <message>
         <source>Group Whisper Target:</source>
-        <translation type="unfinished">密语目标组:</translation>
+        <translation type="unfinished">密语目标组：</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -11758,11 +11758,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Poke Reason:</source>
-        <translation type="unfinished">为啥戳他:</translation>
+        <translation type="unfinished">为啥戳他：</translation>
     </message>
     <message>
         <source>You poked %1 with message: %2</source>
-        <translation type="unfinished">你戳了 %1 一下，附带消息: %2</translation>
+        <translation type="unfinished">你戳了 %1 一下，附带消息：%2</translation>
     </message>
     <message>
         <source>You poked %1.</source>
@@ -12029,11 +12029,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Message:</source>
-        <translation type="unfinished">消息:</translation>
+        <translation type="unfinished">消息：</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="unfinished">预设:</translation>
+        <translation type="unfinished">预设：</translation>
     </message>
 </context>
 <context>
@@ -12044,11 +12044,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Capture Mode:</source>
-        <translation type="unfinished">音频输入模式:</translation>
+        <translation type="unfinished">音频输入模式：</translation>
     </message>
     <message>
         <source>Capture Device:</source>
-        <translation type="unfinished">音频输入设备:</translation>
+        <translation type="unfinished">音频输入设备：</translation>
     </message>
     <message>
         <source>Activation</source>
@@ -12132,11 +12132,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Echo &amp;reduction reduces playback by:</source>
-        <translation type="unfinished">回声抑制功能降低的音频回放音量(&amp;R):</translation>
+        <translation type="unfinished">回声抑制功能降低的音频回放音量(&amp;R)：</translation>
     </message>
     <message>
         <source>Reduce playback volume by:</source>
-        <translation type="unfinished">降低回放音量:</translation>
+        <translation type="unfinished">降低回放音量：</translation>
     </message>
     <message>
         <source> dB</source>
@@ -12152,7 +12152,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Delay releasing Push-To-Talk:</source>
-        <translation type="unfinished">延迟释放按键通话:</translation>
+        <translation type="unfinished">延迟释放按键通话：</translation>
     </message>
     <message>
         <source> secs</source>
@@ -12175,7 +12175,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Maximum number of lines:</source>
-        <translation type="unfinished">最大行数:</translation>
+        <translation type="unfinished">最大行数：</translation>
     </message>
     <message>
         <source>Chats are cut short when the maximum number of lines are exceeded.</source>
@@ -12550,11 +12550,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&lt;p&gt;You clicked a TeamSpeak 3 server link in your web browser&lt;br&gt;which wants to add itself to your bookmarks as:&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;How do you want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您在网络浏览器中点击了一个 TeamSpeak 3 服务器链接，将会添加到您的书签中:&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;是否继续？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;您在网络浏览器中点击了一个 TeamSpeak 3 服务器链接，将会添加到您的书签中：&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;是否继续？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;A plugin wants to add a bookmark as:&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;How do you want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;一个插件想添加书签:&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;是否继续？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;一个插件想添加书签：&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;是否继续？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Do nothing</source>
@@ -13121,7 +13121,7 @@ Use right mouse or delete key to remove an item</source>
 Hint: Hold down SHIFT if you want to add channels recursively</source>
         <translation type="unfinished">
 
-提示: 如果要连续添加，请按住SHIFT键</translation>
+提示：如果要连续添加，请按住SHIFT键</translation>
     </message>
     <message>
         <source>No items in this panel...</source>
@@ -13258,7 +13258,7 @@ Do you really want to delete?</source>
     <message numerus="yes">
         <source>Assigned profile(s): %1</source>
         <translation type="unfinished">
-            <numerusform>%n已指定的配置: %1</numerusform>
+            <numerusform>%n已指定的配置：%1</numerusform>
         </translation>
     </message>
     <message>
@@ -13334,7 +13334,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Plugin failed to load:</source>
-        <translation type="unfinished">插件无法加载:</translation>
+        <translation type="unfinished">插件无法加载：</translation>
     </message>
     <message>
         <source>minimum</source>
@@ -13438,7 +13438,7 @@ Please contact the plugin author.</source>
     <name>com::teamspeak::ui::externallink::ExternalLinkWarningDialog</name>
     <message>
         <source>&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;ATTENTION&lt;/p&gt;&lt;p&gt;You are about to open an external link to:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources as they may be harmful to your computer and your security.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;注意&lt;/p&gt;&lt;p&gt;您即将访问外部链接:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak 无法对内容进行验证或承担任何责任。访问网站或从未知来源下载文件时要小心，他们可能会危害您的计算机和系统安全。&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;注意&lt;/p&gt;&lt;p&gt;您即将访问外部链接：&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak 无法对内容进行验证或承担任何责任。访问网站或从未知来源下载文件时要小心，他们可能会危害您的计算机和系统安全。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Copy link to clipboard</source>
@@ -13528,71 +13528,71 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Updated:</source>
-        <translation type="unfinished">更新:</translation>
+        <translation type="unfinished">更新：</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation type="unfinished">名称：</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished">地址:</translation>
+        <translation type="unfinished">地址：</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished">端口:</translation>
+        <translation type="unfinished">端口：</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished">昵称:</translation>
+        <translation type="unfinished">昵称：</translation>
     </message>
     <message>
         <source>Phonetic Nickname:</source>
-        <translation type="unfinished">昵称发音:</translation>
+        <translation type="unfinished">昵称发音：</translation>
     </message>
     <message>
         <source>Server Password:</source>
-        <translation type="unfinished">服务器密码:</translation>
+        <translation type="unfinished">服务器密码：</translation>
     </message>
     <message>
         <source>Default Channel:</source>
-        <translation type="unfinished">默认频道:</translation>
+        <translation type="unfinished">默认频道：</translation>
     </message>
     <message>
         <source>Default Channel Password:</source>
-        <translation type="unfinished">默认频道密码:</translation>
+        <translation type="unfinished">默认频道密码：</translation>
     </message>
     <message>
         <source>Auto Connect:</source>
-        <translation type="unfinished">自动连接:</translation>
+        <translation type="unfinished">自动连接：</translation>
     </message>
     <message>
         <source>Show Serverquery Clients:</source>
-        <translation type="unfinished">显示 Serverquery 客户端:</translation>
+        <translation type="unfinished">显示 Serverquery 客户端：</translation>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished">身份:</translation>
+        <translation type="unfinished">身份：</translation>
     </message>
     <message>
         <source>Capture Profile:</source>
-        <translation type="unfinished">音频输入配置:</translation>
+        <translation type="unfinished">音频输入配置：</translation>
     </message>
     <message>
         <source>Playback Profile:</source>
-        <translation type="unfinished">音频回放配置:</translation>
+        <translation type="unfinished">音频回放配置：</translation>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation type="unfinished">快捷键配置:</translation>
+        <translation type="unfinished">快捷键配置：</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation type="unfinished">音效包:</translation>
+        <translation type="unfinished">音效包：</translation>
     </message>
     <message>
         <source>Unique Identity:</source>
-        <translation type="unfinished">唯一识别码:</translation>
+        <translation type="unfinished">唯一识别码：</translation>
     </message>
     <message>
         <source>Security Level</source>
@@ -13600,7 +13600,7 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Is Default:</source>
-        <translation type="unfinished">是默认:</translation>
+        <translation type="unfinished">是默认：</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -13612,11 +13612,11 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Folder Name:</source>
-        <translation type="unfinished">文件夹名称:</translation>
+        <translation type="unfinished">文件夹名称：</translation>
     </message>
     <message>
         <source>Folder Type:</source>
-        <translation type="unfinished">文件夹类型:</translation>
+        <translation type="unfinished">文件夹类型：</translation>
     </message>
     <message>
         <source>Description</source>
@@ -13639,11 +13639,11 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
-        <translation>服务器别名或地址(&amp;A):</translation>
+        <translation type="unfinished">服务器别名或地址(&amp;A)：</translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation>服务器密码(&amp;P):</translation>
+        <translation type="unfinished">服务器密码(&amp;P)：</translation>
     </message>
     <message>
         <source>Your requested nickname</source>
@@ -13652,8 +13652,8 @@ Please contact the plugin author.</source>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation>TeamSpeak 3服务器的别名，主机名或IP，
-例如:  voice.teamspeak.com: 9987</translation>
+        <translation type="unfinished">TeamSpeak 3服务器的别名，主机名或IP，
+例如：voice.teamspeak.com:9987</translation>
     </message>
     <message>
         <source>Server password (optional)</source>
@@ -13661,7 +13661,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation>昵称(&amp;N):</translation>
+        <translation type="unfinished">昵称(&amp;N)：</translation>
     </message>
     <message>
         <source>[Too Short]</source>
@@ -13675,7 +13675,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation>快捷键配置:</translation>
+        <translation type="unfinished">快捷键配置：</translation>
     </message>
     <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
@@ -13687,19 +13687,19 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Default Channel:</source>
-        <translation>默认频道(&amp;D):</translation>
+        <translation type="unfinished">默认频道(&amp;D)：</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished">昵称发音(&amp;P):</translation>
+        <translation type="unfinished">昵称发音(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished">音频输入配置(&amp;C):</translation>
+        <translation type="unfinished">音频输入配置(&amp;C)：</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation>身份(&amp;I):</translation>
+        <translation type="unfinished">身份(&amp;I)：</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
@@ -13711,7 +13711,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation>音效包:</translation>
+        <translation type="unfinished">音效包：</translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
@@ -13719,7 +13719,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>One-Time &amp;Privilege Key:</source>
-        <translation>一次性权限密钥(&amp;P):</translation>
+        <translation type="unfinished">一次性权限密钥(&amp;P)：</translation>
     </message>
     <message>
         <source>Enable myTeamSpeak features</source>
@@ -13731,11 +13731,11 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished">输出配置(&amp;P):</translation>
+        <translation type="unfinished">输出配置(&amp;P)：</translation>
     </message>
     <message>
         <source>Channel &amp;Password:</source>
-        <translation>频道密码(&amp;P):</translation>
+        <translation type="unfinished">频道密码(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
@@ -13758,11 +13758,11 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation type="unfinished">配置名称:</translation>
+        <translation type="unfinished">配置名称：</translation>
     </message>
     <message>
         <source>Create Profile Using:</source>
-        <translation type="unfinished">基于配置创建:</translation>
+        <translation type="unfinished">基于配置创建：</translation>
     </message>
     <message>
         <source>Default Settings</source>
@@ -13770,7 +13770,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Profile Copy from:</source>
-        <translation type="unfinished">从现有配置复制:</translation>
+        <translation type="unfinished">从现有配置复制：</translation>
     </message>
 </context>
 <context>
@@ -13781,7 +13781,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation>下载文件夹:</translation>
+        <translation type="unfinished">下载文件夹：</translation>
     </message>
     <message>
         <source>Always save to this folder</source>
@@ -13898,7 +13898,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Expand channels up to this level:</source>
-        <translation>登录时将频道展开到此级别:</translation>
+        <translation type="unfinished">登录时将频道展开到此级别：</translation>
     </message>
     <message>
         <source>Only expand your own channel when logging in.</source>
@@ -13989,7 +13989,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Enter Password for Channel:</source>
-        <translation type="unfinished">输入频道的密码:</translation>
+        <translation type="unfinished">输入频道的密码：</translation>
     </message>
 </context>
 <context>
@@ -14000,11 +14000,11 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Playback Mode:</source>
-        <translation type="unfinished">输出模式:</translation>
+        <translation type="unfinished">输出模式：</translation>
     </message>
     <message>
         <source>Playback Device:</source>
-        <translation type="unfinished">输出设备:</translation>
+        <translation type="unfinished">输出设备：</translation>
     </message>
     <message>
         <source>Play a sound to test your playback settings</source>
@@ -14126,15 +14126,15 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>x: 0</source>
-        <translation>x: 0</translation>
+        <translation type="unfinished">x：0</translation>
     </message>
     <message>
         <source>y: 0</source>
-        <translation>y: 0</translation>
+        <translation type="unfinished">y：0</translation>
     </message>
     <message>
         <source>z: 0</source>
-        <translation>z: 0</translation>
+        <translation type="unfinished">z：0</translation>
     </message>
     <message>
         <source>Add Channel Commander</source>

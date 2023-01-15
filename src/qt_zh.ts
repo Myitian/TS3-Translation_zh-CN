@@ -830,7 +830,7 @@ to
         <location line="+237"/>
         <location line="+1"/>
         <source>(unknown)</source>
-        <translation>(未知的)</translation>
+        <translation type="unfinished">（未知的）</translation>
     </message>
 </context>
 <context>

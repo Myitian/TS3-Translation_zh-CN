@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>ts_core_error_522</source>
-        <translation type="unfinished">客户端版本过期,请更新</translation>
+        <translation type="unfinished">客户端版本过期，请更新</translation>
     </message>
     <message>
         <source>ts_core_error_523</source>

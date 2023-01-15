@@ -115,11 +115,11 @@ version from update server.</source>
     </message>
     <message>
         <source>Update server returned invalid version nr (%1)</source>
-        <translation>更新服务器返回了无效的版本号 (%1)</translation>
+        <translation type="unfinished">更新服务器返回了无效的版本号（%1）</translation>
     </message>
     <message>
         <source>Invalid version nr (%1)</source>
-        <translation>版本号无效 (%1)</translation>
+        <translation type="unfinished">版本号无效（%1）</translation>
     </message>
 </context>
 </TS>

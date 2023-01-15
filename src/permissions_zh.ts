@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>b_serverinstance_help_view_long</source>
-        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用ServerQuery命令 &quot;&lt;b&gt;help&lt;/b&gt;&quot;。&lt;/p&gt;提供有关ServerQuery命令的帮助信息。 不带参数使用 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 命令时，将会简要列出所有命令及其描述。
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用ServerQuery命令 &quot;&lt;b&gt;help&lt;/b&gt;&quot;。&lt;/p&gt;提供有关ServerQuery命令的帮助信息。不带参数使用 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 命令时，将会简要列出所有命令及其描述。
 &lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 键入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
@@ -646,7 +646,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_nickname_long</source>
-        <translation type="unfinished">允许修改虚拟服务器的昵称。 昵称可以在 myTeamSpeak 网页上注册。 昵称可用于轻松连接到 TeamSpeak 服务器。</translation>
+        <translation type="unfinished">允许修改虚拟服务器的昵称。昵称可以在 myTeamSpeak 网页上注册。昵称可用于轻松连接到 TeamSpeak 服务器。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_integrations</source>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_integrations_long</source>
-        <translation type="unfinished">允许修改虚拟服务器的集成组件。 这包括添加和删除集成组件以及修改每个层级的服务器组分配。</translation>
+        <translation type="unfinished">允许修改虚拟服务器的集成组件。这包括添加和删除集成组件以及修改每个层级的服务器组分配。</translation>
     </message>
     <message>
         <source>i_channel_min_depth</source>
@@ -2030,7 +2030,7 @@
     </message>
     <message>
         <source>grant_desc_long</source>
-        <translation type="unfinished">每个权限都具有关联的授予/修改权限。 这些权限控制允许用户授予或撤消的权限，因此它们是修改权限系统的关键，通常保留给管理员。</translation>
+        <translation type="unfinished">每个权限都具有关联的授予/修改权限。这些权限控制允许用户授予或撤消的权限，因此它们是修改权限系统的关键，通常保留给管理员。</translation>
     </message>
 </context>
 </TS>

@@ -9,27 +9,27 @@
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">名称：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">类型：</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <source>Author:</source>
-        <translation type="unfinished">发布者：</translation>
+        <translation>发布者：</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished">版本号：</translation>
+        <translation>版本号：</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">描述：</translation>
+        <translation>描述：</translation>
     </message>
     <message>
         <source>Platform:</source>
-        <translation type="unfinished">平台：</translation>
+        <translation>平台：</translation>
     </message>
     <message>
         <source>This add-on is not available for your platform.</source>
@@ -95,11 +95,11 @@ Do you want to retry as Administrator?</source>
     </message>
     <message>
         <source>File not found: %1</source>
-        <translation type="unfinished">未找到文件：%1</translation>
+        <translation>未找到文件：%1</translation>
     </message>
     <message>
         <source>Invalid zip file: %1</source>
-        <translation type="unfinished">无效的压缩文件：%1</translation>
+        <translation>无效的压缩文件：%1</translation>
     </message>
     <message>
         <source>Failed to find temp directory</source>
@@ -107,16 +107,16 @@ Do you want to retry as Administrator?</source>
     </message>
     <message>
         <source>Failed to create temp path: %1</source>
-        <translation type="unfinished">无法创建临时路径：%1</translation>
+        <translation>无法创建临时路径：%1</translation>
     </message>
     <message>
         <source>Failed to extract: %1</source>
-        <translation type="unfinished">无法提取：%1</translation>
+        <translation>无法提取：%1</translation>
     </message>
     <message>
         <source>Failed to extract Add-On:
 %1</source>
-        <translation type="unfinished">无法提取附加组件：
+        <translation>无法提取附加组件：
 %1</translation>
     </message>
 </context>

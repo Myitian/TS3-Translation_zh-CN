@@ -33,11 +33,11 @@
     </message>
     <message>
         <source>Step one: Updating updater</source>
-        <translation type="unfinished">第1步：更新TS3更新程序</translation>
+        <translation>第1步：更新TS3更新程序</translation>
     </message>
     <message>
         <source>Step two: Updating TeamSpeak client</source>
-        <translation type="unfinished">第2步：更新 TeamSpeak 客户端</translation>
+        <translation>第2步：更新 TeamSpeak 客户端</translation>
     </message>
     <message>
         <source>Confirm reboot</source>
@@ -115,11 +115,11 @@ version from update server.</source>
     </message>
     <message>
         <source>Update server returned invalid version nr (%1)</source>
-        <translation type="unfinished">更新服务器返回了无效的版本号（%1）</translation>
+        <translation>更新服务器返回了无效的版本号（%1）</translation>
     </message>
     <message>
         <source>Invalid version nr (%1)</source>
-        <translation type="unfinished">版本号无效（%1）</translation>
+        <translation>版本号无效（%1）</translation>
     </message>
 </context>
 </TS>

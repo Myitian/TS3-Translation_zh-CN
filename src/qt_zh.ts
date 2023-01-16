@@ -104,14 +104,14 @@
         <location filename="../src/3rdparty/phonon/gstreamer/backend.cpp" line="+171"/>
         <source>Warning: You do not seem to have the package gstreamer0.10-plugins-good installed.
           Some video features have been disabled.</source>
-        <translation>警告: 看起来，您没有安装 gstreamer0.10-plugins-good 包。
+        <translation>警告：看起来，您没有安装 gstreamer0.10-plugins-good 包。
     一些视频特性已经被关闭。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning: You do not seem to have the base GStreamer plugins installed.
           All audio and video support has been disabled</source>
-        <translation>警告: 看起来，您没有安装基础的 GStreamer 插件。
+        <translation>警告：看起来，您没有安装基础的 GStreamer 插件。
     所有的音频和视频支持都已经被关闭。</translation>
     </message>
 </context>
@@ -131,7 +131,7 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <location line="+113"/>
         <source>A required codec is missing. You need to install the following codec(s) to play this content: %0</source>
-        <translation>缺少一个需要的解码器。您需要安装如下解码器来播放这个内容: %0</translation>
+        <translation>缺少一个需要的解码器。您需要安装如下解码器来播放这个内容：%0</translation>
     </message>
     <message>
         <location line="+676"/>
@@ -172,7 +172,7 @@ have libgstreamer-plugins-base installed.</source>
         <location filename="../src/3rdparty/phonon/phonon/volumeslider.cpp" line="+42"/>
         <location line="+18"/>
         <source>Volume: %1%</source>
-        <translation>音量: %1%</translation>
+        <translation>音量：%1%</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -233,13 +233,13 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <location line="+8"/>
         <source>Read: %1</source>
-        <translation>读取: %1</translation>
+        <translation>读取：%1</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+30"/>
         <source>Write: %1</source>
-        <translation>写入: %1</translation>
+        <translation>写入：%1</translation>
     </message>
     <message>
         <location line="-22"/>
@@ -289,19 +289,19 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <location line="-1991"/>
         <source>Look &amp;in:</source>
-        <translation>查找范围(&amp;I): </translation>
+        <translation>查找范围(&amp;I)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+1981"/>
         <location line="+16"/>
         <source>File &amp;name:</source>
-        <translation>文件名称(&amp;N): </translation>
+        <translation>文件名称(&amp;N)：</translation>
     </message>
     <message>
         <location line="-1996"/>
         <source>File &amp;type:</source>
-        <translation>文件类型(&amp;T): </translation>
+        <translation>文件类型(&amp;T)：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -523,7 +523,7 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <location line="-2"/>
         <source>Directory:</source>
-        <translation>目录: </translation>
+        <translation>目录：</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -830,7 +830,7 @@ to
         <location line="+237"/>
         <location line="+1"/>
         <source>(unknown)</source>
-        <translation type="unfinished">（未知的）</translation>
+        <translation>(未知的)</translation>
     </message>
 </context>
 <context>
@@ -967,7 +967,7 @@ to
     <message>
         <location/>
         <source>COM &amp;Object:</source>
-        <translation>COM对象(&amp;O): </translation>
+        <translation>COM对象(&amp;O)：</translation>
     </message>
 </context>
 <context>
@@ -993,37 +993,37 @@ to
     <message>
         <location filename="../src/gui/dialogs/qcolordialog.cpp" line="+1253"/>
         <source>Hu&amp;e:</source>
-        <translation>色调(&amp;E): </translation>
+        <translation>色调(&amp;E)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Sat:</source>
-        <translation>饱和度(&amp;S): </translation>
+        <translation>饱和度(&amp;S)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Val:</source>
-        <translation>亮度(&amp;V): </translation>
+        <translation>亮度(&amp;V)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Red:</source>
-        <translation>红色(&amp;R): </translation>
+        <translation>红色(&amp;R)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Green:</source>
-        <translation>绿色(&amp;G): </translation>
+        <translation>绿色(&amp;G)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bl&amp;ue:</source>
-        <translation>蓝色(&amp;U): </translation>
+        <translation>蓝色(&amp;U)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A&amp;lpha channel:</source>
-        <translation>Alpha通道(&amp;A): </translation>
+        <translation>Alpha通道(&amp;A)：</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -1079,45 +1079,45 @@ to
     <message>
         <source>%1: permission denied</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="obsolete">%1: 权限被拒绝</translation>
+        <translation type="obsolete">%1：权限被拒绝</translation>
     </message>
     <message>
         <source>%1: already exists</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="obsolete">%1: 已经存在</translation>
+        <translation type="obsolete">%1：已经存在</translation>
     </message>
     <message>
         <source>%1: doesn&apos;t exists</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="obsolete">%1: 不存在</translation>
+        <translation type="obsolete">%1：不存在</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="obsolete">%1: 资源耗尽了</translation>
+        <translation type="obsolete">%1：资源耗尽了</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="obsolete">%1: 未知错误 %2</translation>
+        <translation type="obsolete">%1：未知错误 %2</translation>
     </message>
     <message>
         <location filename="../src/corelib/kernel/qsystemsemaphore_unix.cpp" line="+119"/>
         <source>%1: key is empty</source>
         <comment>QSystemSemaphore</comment>
-        <translation>%1: 键是空的</translation>
+        <translation>%1：键是空的</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>%1: unable to make key</source>
         <comment>QSystemSemaphore</comment>
-        <translation>%1: 不能制造键</translation>
+        <translation>%1：不能制造键</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1: ftok failed</source>
         <comment>QSystemSemaphore</comment>
-        <translation>%1: ftok 失败</translation>
+        <translation>%1：ftok 失败</translation>
     </message>
 </context>
 <context>
@@ -1422,17 +1422,17 @@ to
     <message>
         <location filename="../src/gui/dialogs/qerrormessage.cpp" line="+192"/>
         <source>Debug Message:</source>
-        <translation>调试消息: </translation>
+        <translation>调试消息：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning:</source>
-        <translation>警告: </translation>
+        <translation>警告：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Fatal Error:</source>
-        <translation>致命错误: </translation>
+        <translation>致命错误：</translation>
     </message>
     <message>
         <location line="+193"/>
@@ -1456,7 +1456,7 @@ to
     <message>
         <location line="-108"/>
         <source>Cannot remove source file</source>
-        <translation type="unfinished">无法删除源文件</translation>
+        <translation>无法删除源文件</translation>
     </message>
     <message>
         <location line="+120"/>
@@ -1575,13 +1575,13 @@ Please verify the correct file name was given.</source>
         <location/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Files of type:</source>
-        <translation>文件类型: </translation>
+        <translation>文件类型：</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+6"/>
         <location line="+648"/>
         <source>Directory:</source>
-        <translation>目录: </translation>
+        <translation>目录：</translation>
     </message>
     <message>
         <location line="+794"/>
@@ -1677,13 +1677,13 @@ Do you want to delete it anyway?</source>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-687"/>
         <location line="+652"/>
         <source>File &amp;name:</source>
-        <translation>文件名称(&amp;N): </translation>
+        <translation>文件名称(&amp;N)：</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.ui"/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Look in:</source>
-        <translation>查看: </translation>
+        <translation>查看：</translation>
     </message>
     <message>
         <location/>
@@ -2089,7 +2089,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+77"/>
         <source>Connecting to host failed:
 %1</source>
-        <translation>连接主机失败: 
+        <translation>连接主机失败：
 %1</translation>
     </message>
     <message>
@@ -2097,7 +2097,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Login failed:
 %1</source>
-        <translation>登录失败: 
+        <translation>登录失败：
 %1</translation>
     </message>
     <message>
@@ -2105,7 +2105,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Listing directory failed:
 %1</source>
-        <translation>列出目录失败: 
+        <translation>列出目录失败：
 %1</translation>
     </message>
     <message>
@@ -2113,7 +2113,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Changing directory failed:
 %1</source>
-        <translation>改变目录失败: 
+        <translation>改变目录失败：
 %1</translation>
     </message>
     <message>
@@ -2121,7 +2121,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Downloading file failed:
 %1</source>
-        <translation>下载文件失败: 
+        <translation>下载文件失败：
 %1</translation>
     </message>
     <message>
@@ -2129,7 +2129,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Uploading file failed:
 %1</source>
-        <translation>上传文件失败: 
+        <translation>上传文件失败：
 %1</translation>
     </message>
     <message>
@@ -2137,7 +2137,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Removing file failed:
 %1</source>
-        <translation>移除文件失败: 
+        <translation>移除文件失败：
 %1</translation>
     </message>
     <message>
@@ -2145,7 +2145,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Creating directory failed:
 %1</source>
-        <translation>创建目录失败: 
+        <translation>创建目录失败：
 %1</translation>
     </message>
     <message>
@@ -2153,7 +2153,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+3"/>
         <source>Removing directory failed:
 %1</source>
-        <translation>移除目录失败: 
+        <translation>移除目录失败：
 %1</translation>
     </message>
     <message>
@@ -2268,7 +2268,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+179"/>
         <source>Unknown authentication method</source>
-        <translation type="unfinished">未知的验证方式</translation>
+        <translation>未知的验证方式</translation>
     </message>
     <message>
         <location line="+183"/>
@@ -2604,37 +2604,37 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/dialogs/qinputdialog.cpp" line="+223"/>
         <source>Enter a value:</source>
-        <translation>输入一个值: </translation>
+        <translation>输入一个值：</translation>
     </message>
 </context>
 <context>
     <name>QLibrary</name>
     <message>
         <source>QLibrary::load_sys: Cannot load %1 (%2)</source>
-        <translation type="obsolete">QLibrary::load_sys:  不能载入%1 (%2)</translation>
+        <translation type="obsolete">QLibrary::load_sys：不能载入%1 (%2)</translation>
     </message>
     <message>
         <source>QLibrary::unload_sys: Cannot unload %1 (%2)</source>
-        <translation type="obsolete">QLibrary::unload_sys: 不能卸载%1 (%2)</translation>
+        <translation type="obsolete">QLibrary::unload_sys：不能卸载%1 (%2)</translation>
     </message>
     <message>
         <source>QLibrary::resolve_sys: Symbol &quot;%1&quot; undefined in %2 (%3)</source>
-        <translation type="obsolete">QLibrary::resolve_sys: 符号“%1”在%2（%3）没有被定义</translation>
+        <translation type="obsolete">QLibrary::resolve_sys：符号“%1”在%2（%3）没有被定义</translation>
     </message>
     <message>
         <location filename="../src/corelib/plugin/qlibrary.cpp" line="+378"/>
         <source>Could not mmap &apos;%1&apos;: %2</source>
-        <translation>不能映射”%1“: %2</translation>
+        <translation>不能映射“%1”：%2</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Plugin verification data mismatch in &apos;%1&apos;</source>
-        <translation>“%1“中的插件验证数据不匹配</translation>
+        <translation>“%1”中的插件验证数据不匹配</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Could not unmap &apos;%1&apos;: %2</source>
-        <translation>不能取消映射“%1“: %2</translation>
+        <translation>不能取消映射“%1”：%2</translation>
     </message>
     <message>
         <location line="+302"/>
@@ -2644,7 +2644,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+20"/>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. Expected build key &quot;%2&quot;, got &quot;%3&quot;</source>
-        <translation>插件“%1“使用了不兼容的Qt库。期待的构建键是“%2“，得到的却是”%3“</translation>
+        <translation>插件“%1”使用了不兼容的Qt库。期待的构建键是“%1”，得到的却是“%1”</translation>
     </message>
     <message>
         <location line="+340"/>
@@ -2660,30 +2660,30 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+2"/>
         <source>The file &apos;%1&apos; is not a valid Qt plugin.</source>
-        <translation>文件“%1“不是有效的Qt插件。</translation>
+        <translation>文件“%1”不是有效的Qt插件。</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. (Cannot mix debug and release libraries.)</source>
-        <translation>插件“%1“使用了不兼容的Qt库。(不能混合使用库的调试版本和发布版本。)</translation>
+        <translation>插件“%1”使用了不兼容的Qt库。(不能混合使用库的调试版本和发布版本。)</translation>
     </message>
     <message>
         <location filename="../src/corelib/plugin/qlibrary_unix.cpp" line="+209"/>
         <location filename="../src/corelib/plugin/qlibrary_win.cpp" line="+99"/>
         <source>Cannot load library %1: %2</source>
-        <translation>无法加载库%1: %2</translation>
+        <translation>无法加载库%1：%2</translation>
     </message>
     <message>
         <location line="+16"/>
         <location filename="../src/corelib/plugin/qlibrary_win.cpp" line="+26"/>
         <source>Cannot unload library %1: %2</source>
-        <translation>无法卸载库%1: %2</translation>
+        <translation>无法卸载库%1：%2</translation>
     </message>
     <message>
         <location line="+31"/>
         <location filename="../src/corelib/plugin/qlibrary_win.cpp" line="+15"/>
         <source>Cannot resolve symbol &quot;%1&quot; in %2: %3</source>
-        <translation>无法解析%2中的符号“%2”: %3</translation>
+        <translation>无法解析%2中的符号“%2”：%3</translation>
     </message>
 </context>
 <context>
@@ -2730,23 +2730,23 @@ Do you want to delete it anyway?</source>
         <location filename="../src/network/socket/qlocalserver.cpp" line="+226"/>
         <location filename="../src/network/socket/qlocalserver_unix.cpp" line="+231"/>
         <source>%1: Name error</source>
-        <translation>%1: 名称错误</translation>
+        <translation>%1：名称错误</translation>
     </message>
     <message>
         <location filename="../src/network/socket/qlocalserver_unix.cpp" line="-8"/>
         <source>%1: Permission denied</source>
-        <translation>%1: 权限被拒绝</translation>
+        <translation>%1：权限被拒绝</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>%1: Address in use</source>
-        <translation>%1: 地址正在被使用</translation>
+        <translation>%1：地址正在被使用</translation>
     </message>
     <message>
         <location line="+5"/>
         <location filename="../src/network/socket/qlocalserver_win.cpp" line="+158"/>
         <source>%1: Unknown error %2</source>
-        <translation>%1: 未知错误 %2</translation>
+        <translation>%1：未知错误 %2</translation>
     </message>
 </context>
 <context>
@@ -2755,13 +2755,13 @@ Do you want to delete it anyway?</source>
         <location filename="../src/network/socket/qlocalsocket_tcp.cpp" line="+132"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+134"/>
         <source>%1: Connection refused</source>
-        <translation>%1: 连接被拒绝</translation>
+        <translation>%1：连接被拒绝</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Remote closed</source>
-        <translation>%1: 远程已关闭</translation>
+        <translation>%1：远程已关闭</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2769,55 +2769,55 @@ Do you want to delete it anyway?</source>
         <location filename="../src/network/socket/qlocalsocket_win.cpp" line="+80"/>
         <location line="+43"/>
         <source>%1: Invalid name</source>
-        <translation>%1: 无效名称</translation>
+        <translation>%1：无效名称</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Socket access error</source>
-        <translation>%1: 套接字访问错误</translation>
+        <translation>%1：套接字访问错误</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Socket resource error</source>
-        <translation>%1: 套接字资源错误</translation>
+        <translation>%1：套接字资源错误</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Socket operation timed out</source>
-        <translation>%1: 套接字操作超时</translation>
+        <translation>%1：套接字操作超时</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Datagram too large</source>
-        <translation>%1: 数据报太大</translation>
+        <translation>%1：数据报太大</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_win.cpp" line="-48"/>
         <source>%1: Connection error</source>
-        <translation>%1: 连接错误</translation>
+        <translation>%1：连接错误</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: The socket operation is not supported</source>
-        <translation>%1: 套接字操作不被支持</translation>
+        <translation>%1：套接字操作不被支持</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: Unknown error</source>
-        <translation>%1: 未知错误</translation>
+        <translation>%1：未知错误</translation>
     </message>
     <message>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+4"/>
         <location filename="../src/network/socket/qlocalsocket_win.cpp" line="+10"/>
         <source>%1: Unknown error %2</source>
-        <translation>%1: 未知错误 %2</translation>
+        <translation>%1：未知错误 %2</translation>
     </message>
 </context>
 <context>
@@ -3119,7 +3119,17 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+1570"/>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2012 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2012 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;关于Qt&lt;/h3&gt;
+&lt;p&gt;此程序使用 Qt 版本 %1。&lt;/p&gt;
+&lt;p&gt;Qt 是用于跨平台应用程序开发的 C++ 工具包。&lt;/p&gt;
+&lt;p&gt;Qt 提供跨 MS&amp;nbsp;Windows、Mac&amp;nbsp;OS&amp;nbsp;X、Linux 和所有主要商业 Unix 变体的单一源可移植性。 Qt 也可用于嵌入式设备，如用于嵌入式 Linux 的 Qt 和用于 Windows CE 的 Qt。&lt;/p&gt;
+&lt;p&gt;Qt 在三种不同的许可选项下可用，旨在满足我们不同用户的需求。&lt;/p&gt;
+&lt;p&gt;根据我们的商业许可协议获得许可的 Qt 适用于开发您不想与第三方共享任何源代码或不符合 GNU LGPL 2.1 版或 GNU GPL 3.0 版条款的专有/商业软件 .&lt;/p&gt;
+&lt;p&gt;根据 GNU LGPL 2.1 版获得许可的 Qt 适用于开发 Qt 应用程序（专有或开源），前提是您可以遵守 GNU LGPL 2.1 版的条款和条件。&lt;/p&gt;
+&lt;p&gt;根据 GNU 通用公共许可证 3.0 版获得许可的 Qt 适用于开发 Qt 应用程序，如果您希望将此类应用程序与受 GNU GPL 3.0 版条款约束的软件结合使用，或者您愿意遵守 符合 GNU GPL 3.0 版的条款。&lt;/p&gt;
+&lt;p&gt;有关 Qt 许可的概述，请参阅 &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;版权 (C) 2012 诺基亚公司和/或其子公司。&lt;/p&gt;
+&lt;p&gt;Qt 是诺基亚的产品。 有关详细信息，请参阅 &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt;。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;%1&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokiae.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
@@ -3306,22 +3316,22 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+42"/>
         <source>Error opening %1: %2</source>
-        <translation>打开 %1 错误: %2</translation>
+        <translation>打开 %1 错误：%2</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Write error writing to %1: %2</source>
-        <translation>写入 %1 错误: %2</translation>
+        <translation>写入 %1 错误：%2</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Cannot open %1: Path is a directory</source>
-        <translation>无法打开 %1: 路径是一个目录</translation>
+        <translation>无法打开 %1：路径是一个目录</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Read error reading from %1: %2</source>
-        <translation>读取 %1 错误: %2</translation>
+        <translation>读取 %1 错误：%2</translation>
     </message>
 </context>
 <context>
@@ -3334,22 +3344,22 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+14"/>
         <source>Cannot open %1: is a directory</source>
-        <translation>无法读取 %1: 是一个目录</translation>
+        <translation>无法读取 %1：是一个目录</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation>登入 %1 失败: 需要验证</translation>
+        <translation>登入 %1 失败：需要验证</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Error while downloading %1: %2</source>
-        <translation>下载 %1 时错误: %2</translation>
+        <translation>下载 %1 时错误：%2</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error while uploading %1: %2</source>
-        <translation>上载 %1 时错误: %2</translation>
+        <translation>上载 %1 时错误：%2</translation>
     </message>
 </context>
 <context>
@@ -3365,7 +3375,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+128"/>
         <source>Error downloading %1 - server replied: %2</source>
-        <translation>下载 %1 错误 - 服务器回复: %2</translation>
+        <translation>下载 %1 错误 - 服务器回复：%2</translation>
     </message>
     <message>
         <location filename="../src/network/access/qnetworkreplyimpl.cpp" line="+68"/>
@@ -3494,7 +3504,7 @@ Do you want to delete it anyway?</source>
         <location line="-1218"/>
         <location line="+349"/>
         <source>QODBCResult::reset: Unable to set &apos;SQL_CURSOR_STATIC&apos; as statement attribute. Please check your ODBC driver configuration</source>
-        <translation>QODBCResult::reset: 不能把“SQL_CURSOR_STATIC”设置为语句属性。请检查你的ODBC驱动程序设置。</translation>
+        <translation>QODBCResult::reset：不能把“SQL_CURSOR_STATIC”设置为语句属性。请检查你的ODBC驱动程序设置。</translation>
     </message>
     <message>
         <location line="-332"/>
@@ -3555,22 +3565,22 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+53"/>
         <source>Invalid URI: %1</source>
-        <translation>无效的 URI: %1</translation>
+        <translation>无效的 URI：%1</translation>
     </message>
     <message>
         <location filename="../src/network/access/qnetworkaccessdebugpipebackend.cpp" line="+175"/>
         <source>Write error writing to %1: %2</source>
-        <translation>写入 %1 错误: %2</translation>
+        <translation>写入 %1 错误：%2</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Read error reading from %1: %2</source>
-        <translation>读取 %1 错误: %2</translation>
+        <translation>读取 %1 错误：%2</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Socket error on %1: %2</source>
-        <translation>%1 上的套接字错误: %2</translation>
+        <translation>%1 上的套接字错误：%2</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -3580,7 +3590,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+53"/>
         <source>Protocol error: packet of size 0 received</source>
-        <translation>协议错误: 收到了大小为 0 的包</translation>
+        <translation>协议错误：收到了大小为 0 的包</translation>
     </message>
     <message>
         <location filename="../src/network/kernel/qhostinfo.cpp" line="+177"/>
@@ -3683,22 +3693,22 @@ Do you want to delete it anyway?</source>
     <message>
         <location/>
         <source>Page size:</source>
-        <translation>纸张大小: </translation>
+        <translation>纸张大小：</translation>
     </message>
     <message>
         <location/>
         <source>Width:</source>
-        <translation>宽度: </translation>
+        <translation>宽度：</translation>
     </message>
     <message>
         <location/>
         <source>Height:</source>
-        <translation>高度: </translation>
+        <translation>高度：</translation>
     </message>
     <message>
         <location/>
         <source>Paper source:</source>
-        <translation>纸张源: </translation>
+        <translation>纸张源：</translation>
     </message>
     <message>
         <location/>
@@ -3775,7 +3785,7 @@ Do you want to delete it anyway?</source>
         <location line="+23"/>
         <location line="+225"/>
         <source>Aliases: %1</source>
-        <translation>别名: %1</translation>
+        <translation>别名：%1</translation>
     </message>
     <message>
         <location line="+223"/>
@@ -4365,7 +4375,7 @@ Please choose a different file name.</source>
     <message>
         <location/>
         <source>Copies:</source>
-        <translation>备份: </translation>
+        <translation>备份：</translation>
     </message>
     <message>
         <location/>
@@ -4433,7 +4443,7 @@ Please choose a different file name.</source>
     <message>
         <location/>
         <source>&amp;Name:</source>
-        <translation>名称(&amp;N): </translation>
+        <translation>名称(&amp;N)：</translation>
     </message>
     <message>
         <location/>
@@ -4443,7 +4453,7 @@ Please choose a different file name.</source>
     <message>
         <location/>
         <source>Location:</source>
-        <translation>位置: </translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location/>
@@ -4453,12 +4463,12 @@ Please choose a different file name.</source>
     <message>
         <location/>
         <source>Type:</source>
-        <translation>类型: </translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location/>
         <source>Output &amp;file:</source>
-        <translation>输出文件(&amp;F): </translation>
+        <translation>输出文件(&amp;F)：</translation>
     </message>
     <message>
         <location/>
@@ -4483,7 +4493,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+235"/>
         <source>Resource error (fork failure): %1</source>
-        <translation>资源错误(fork失败): %1</translation>
+        <translation>资源错误(fork失败)：%1</translation>
     </message>
     <message>
         <location line="+259"/>
@@ -4521,7 +4531,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+912"/>
         <source>No program defined</source>
-        <translation type="unfinished">没有定义的程序</translation>
+        <translation>没有定义的程序</translation>
     </message>
     <message>
         <location filename="../src/corelib/io/qprocess_win.cpp" line="-341"/>
@@ -4790,99 +4800,99 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+207"/>
         <source>%1: unable to set key on lock</source>
-        <translation>%1: 无法设置锁定的键</translation>
+        <translation>%1：无法设置锁定的键</translation>
     </message>
     <message>
         <location line="+81"/>
         <source>%1: create size is less then 0</source>
-        <translation>%1: 创建的大小小于 0</translation>
+        <translation>%1：创建的大小小于 0</translation>
     </message>
     <message>
         <location line="+168"/>
         <location filename="../src/corelib/kernel/qsharedmemory_p.h" line="+148"/>
         <source>%1: unable to lock</source>
-        <translation>%1: 无法锁定</translation>
+        <translation>%1：无法锁定</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>%1: unable to unlock</source>
-        <translation>%1: 无法取消锁定</translation>
+        <translation>%1：无法取消锁定</translation>
     </message>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="+78"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+87"/>
         <source>%1: permission denied</source>
-        <translation>%1: 权限被拒绝</translation>
+        <translation>%1：权限被拒绝</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="-22"/>
         <source>%1: already exists</source>
-        <translation>%1: 已经存在</translation>
+        <translation>%1：已经存在</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+9"/>
         <source>%1: doesn&apos;t exists</source>
-        <translation>%1: 不存在</translation>
+        <translation>%1：不存在</translation>
     </message>
     <message>
         <location line="+6"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+9"/>
         <source>%1: out of resources</source>
-        <translation>%1: 资源耗尽</translation>
+        <translation>%1：资源耗尽</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+7"/>
         <source>%1: unknown error %2</source>
-        <translation>%1: 未知错误 %2</translation>
+        <translation>%1：未知错误 %2</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>%1: key is empty</source>
-        <translation>%1: 键是空的</translation>
+        <translation>%1：键是空的</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: unix key file doesn&apos;t exists</source>
-        <translation>%1: Unix 键文件不存在</translation>
+        <translation>%1：Unix 键文件不存在</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1: ftok failed</source>
-        <translation>%1: ftok 失败</translation>
+        <translation>%1：ftok 失败</translation>
     </message>
     <message>
         <location line="+51"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+15"/>
         <source>%1: unable to make key</source>
-        <translation>%1: 不能制造键</translation>
+        <translation>%1：不能制造键</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>%1: system-imposed size restrictions</source>
-        <translation>%1: 系统预设大小限制</translation>
+        <translation>%1：系统预设大小限制</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>%1: not attached</source>
-        <translation>%1: 没有附加</translation>
+        <translation>%1：没有附加</translation>
     </message>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="-27"/>
         <source>%1: invalid size</source>
-        <translation>%1: 无效大小</translation>
+        <translation>%1：无效大小</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>%1: key error</source>
-        <translation>%1: 键错误</translation>
+        <translation>%1：键错误</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>%1: size query failed</source>
-        <translation>%1: 大小查询失败</translation>
+        <translation>%1：大小查询失败</translation>
     </message>
 </context>
 <context>
@@ -5410,7 +5420,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+1"/>
         <source>Proxy authentication failed: %1</source>
-        <translation>代理认证失败: %1</translation>
+        <translation>代理认证失败：%1</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -5532,17 +5542,17 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/network/ssl/qsslsocket_openssl.cpp" line="+569"/>
         <source>Unable to write data: %1</source>
-        <translation>不能写入数据: %1</translation>
+        <translation>不能写入数据：%1</translation>
     </message>
     <message>
         <location line="+119"/>
         <source>Error while reading: %1</source>
-        <translation>读取时错误: %1</translation>
+        <translation>读取时错误：%1</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Error during SSL handshake: %1</source>
-        <translation>SSL握手错误: %1</translation>
+        <translation>SSL握手错误：%1</translation>
     </message>
     <message>
         <location line="-524"/>
@@ -5562,7 +5572,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+15"/>
         <source>Error creating SSL session: %1</source>
-        <translation>创建SSL会话错误: %1</translation>
+        <translation>创建SSL会话错误：%1</translation>
     </message>
     <message>
         <location line="-61"/>
@@ -5591,29 +5601,29 @@ Please choose a different file name.</source>
         <location filename="../src/corelib/kernel/qsystemsemaphore_unix.cpp" line="-41"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+66"/>
         <source>%1: out of resources</source>
-        <translation>%1: 资源耗尽</translation>
+        <translation>%1：资源耗尽</translation>
     </message>
     <message>
         <location line="-13"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+4"/>
         <source>%1: permission denied</source>
-        <translation>%1: 权限被拒绝</translation>
+        <translation>%1：权限被拒绝</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: already exists</source>
-        <translation>%1: 已经存在</translation>
+        <translation>%1：已经存在</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: does not exist</source>
-        <translation>%1: 不存在</translation>
+        <translation>%1：不存在</translation>
     </message>
     <message>
         <location line="+9"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+3"/>
         <source>%1: unknown error %2</source>
-        <translation>%1: 未知错误 %2</translation>
+        <translation>%1：未知错误 %2</translation>
     </message>
 </context>
 <context>
@@ -5870,7 +5880,7 @@ Please choose a different file name.</source>
         <location line="+10"/>
         <source>This is a searchable index. Enter search keywords: </source>
         <comment>text that appears at the start of nearly-obsolete web pages in the form of a &apos;searchable index&apos;</comment>
-        <translation>这是一个可以搜索的索引。请输入要搜索的关键字: </translation>
+        <translation>这是一个可以搜索的索引。请输入要搜索的关键字：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -6298,7 +6308,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+3"/>
         <source>Select all</source>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -6373,12 +6383,12 @@ Please choose a different file name.</source>
     <message>
         <location line="+33"/>
         <source>Insert a new paragraph</source>
-        <translation type="unfinished">插入一个新段落</translation>
+        <translation>插入一个新段落</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert a new line</source>
-        <translation type="unfinished">插入一个新行</translation>
+        <translation>插入一个新行</translation>
     </message>
 </context>
 <context>
@@ -6876,7 +6886,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+10"/>
         <source>Overflow: Can&apos;t represent date %1.</source>
-        <translation>溢出: 无法呈现数据 %1。</translation>
+        <translation>溢出：无法呈现数据 %1。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -6896,7 +6906,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+115"/>
         <source>Overflow: Date can&apos;t be represented.</source>
-        <translation>溢出: 数据无法被呈现。</translation>
+        <translation>溢出：数据无法被呈现。</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qabstractduration.cpp" line="+99"/>
@@ -7048,7 +7058,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+8"/>
         <source>Failure when casting from %1 to %2: %3</source>
-        <translation>从 %2 抛出到 %1 失败: %3</translation>
+        <translation>从 %2 抛出到 %1 失败：%3</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qcommentconstructor.cpp" line="+67"/>
@@ -7218,12 +7228,12 @@ Please choose a different file name.</source>
     <message>
         <location line="+99"/>
         <source>%1 is an invalid regular expression pattern: %2</source>
-        <translation>%1 是正则表达式中的一个无效模式: %2</translation>
+        <translation>%1 是正则表达式中的一个无效模式：%2</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>%1 is an invalid flag for regular expressions. Valid flags are:</source>
-        <translation>%1 是正则表达式中的一个无效标记。有效标记为: </translation>
+        <translation>%1 是正则表达式中的一个无效标记。有效标记为：</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qqnamefns.cpp" line="+17"/>
@@ -7547,7 +7557,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+15"/>
         <source>Two namespace declaration attributes have the same name: %1.</source>
-        <translation>两个命名空间声明属性使用了相同的名称: %1。</translation>
+        <translation>两个命名空间声明属性使用了相同的名称：%1。</translation>
     </message>
     <message>
         <location line="+89"/>
@@ -7681,7 +7691,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/xmlpatterns/expr/qcomputednamespaceconstructor.cpp" line="+69"/>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
-        <translation type="unfinished">在一个命名空间构造中，命名空间不能为空字符串。</translation>
+        <translation>在一个命名空间构造中，命名空间不能为空字符串。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -7731,7 +7741,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+20"/>
         <source>Parse error: %1</source>
-        <translation>解析错误: %1</translation>
+        <translation>解析错误：%1</translation>
     </message>
     <message>
         <location line="+62"/>
@@ -7906,7 +7916,7 @@ Please choose a different file name.</source>
         <location line="+5"/>
         <location line="+15"/>
         <source>Volume: %1%</source>
-        <translation>音量: %1%</translation>
+        <translation>音量：%1%</translation>
     </message>
 </context>
 <context>
